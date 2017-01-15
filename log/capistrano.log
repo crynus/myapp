@@ -1,375 +1,129 @@
-# Logfile created on 2017-01-15 19:34:54 +0000 by logger.rb/54072
+# Logfile created on 2017-01-15 21:44:31 +0000 by logger.rb/54072
   INFO ---------------------------------------------------------------------------
-  INFO START 2017-01-15 19:34:54 +0000 cap production deploy:initial
+  INFO START 2017-01-15 21:44:31 +0000 cap production deploy:initial
   INFO ---------------------------------------------------------------------------
- DEBUG [6f976afe] Running [ -d ~/.rvm ] on 192.168.8.40
- DEBUG [6f976afe] Command: [ -d ~/.rvm ]
-  INFO ---------------------------------------------------------------------------
-  INFO START 2017-01-15 19:35:30 +0000 cap production deploy:initial
-  INFO ---------------------------------------------------------------------------
- DEBUG [4aedef6d] Running [ -d ~/.rvm ] on 192.168.8.38
- DEBUG [4aedef6d] Command: [ -d ~/.rvm ]
-  INFO ---------------------------------------------------------------------------
-  INFO START 2017-01-15 19:35:44 +0000 cap production deploy:initial
-  INFO ---------------------------------------------------------------------------
- DEBUG [f80e6686] Running [ -d ~/.rvm ] on 192.168.8.38
- DEBUG [f80e6686] Command: [ -d ~/.rvm ]
-  INFO ---------------------------------------------------------------------------
-  INFO START 2017-01-15 19:43:58 +0000 cap production deploy:initial
-  INFO ---------------------------------------------------------------------------
- DEBUG [04bca805] Running [ -d ~/.rvm ] on 192.168.8.38
- DEBUG [04bca805] Command: [ -d ~/.rvm ]
-  INFO ---------------------------------------------------------------------------
-  INFO START 2017-01-15 19:45:33 +0000 cap production deploy:initial
-  INFO ---------------------------------------------------------------------------
- DEBUG [6ebb28bc] Running [ -d ~/.rvm ] on 192.168.8.38
- DEBUG [6ebb28bc] Command: [ -d ~/.rvm ]
-  INFO ---------------------------------------------------------------------------
-  INFO START 2017-01-15 19:46:58 +0000 cap production deploy:initial
-  INFO ---------------------------------------------------------------------------
- DEBUG [16894c0a] Running [ -d ~/.rvm ] on 192.168.8.38
- DEBUG [16894c0a] Command: [ -d ~/.rvm ]
-  INFO ---------------------------------------------------------------------------
-  INFO START 2017-01-15 19:47:24 +0000 cap production deploy:initial
-  INFO ---------------------------------------------------------------------------
- DEBUG [c66df167] Running [ -d ~/.rvm ] on 192.168.8.38
- DEBUG [c66df167] Command: [ -d ~/.rvm ]
-  INFO ---------------------------------------------------------------------------
-  INFO START 2017-01-15 19:48:10 +0000 cap production deploy:initial
-  INFO ---------------------------------------------------------------------------
- DEBUG [8a712430] Running [ -d ~/.rvm ] on 192.168.8.38
- DEBUG [8a712430] Command: [ -d ~/.rvm ]
-  INFO ---------------------------------------------------------------------------
-  INFO START 2017-01-15 19:49:28 +0000 cap production deploy:initial
-  INFO ---------------------------------------------------------------------------
- DEBUG [4d40b35f] Running [ -d ~/.rvm ] on 192.168.8.38
- DEBUG [4d40b35f] Command: [ -d ~/.rvm ]
-  INFO ---------------------------------------------------------------------------
-  INFO START 2017-01-15 19:51:09 +0000 cap production deploy:initial
-  INFO ---------------------------------------------------------------------------
- DEBUG [f1fe9ecf] Running [ -d ~/.rvm ] on 192.168.8.38
- DEBUG [f1fe9ecf] Command: [ -d ~/.rvm ]
-  INFO ---------------------------------------------------------------------------
-  INFO START 2017-01-15 19:51:21 +0000 cap production deploy:initial
-  INFO ---------------------------------------------------------------------------
- DEBUG [ed81f0ca] Running [ -d ~/.rvm ] on 192.168.8.38
- DEBUG [ed81f0ca] Command: [ -d ~/.rvm ]
-  INFO ---------------------------------------------------------------------------
-  INFO START 2017-01-15 19:51:35 +0000 cap production deploy:initial
-  INFO ---------------------------------------------------------------------------
- DEBUG [9f3d959f] Running [ -d ~/.rvm ] on 192.168.8.38
- DEBUG [9f3d959f] Command: [ -d ~/.rvm ]
-  INFO ---------------------------------------------------------------------------
-  INFO START 2017-01-15 19:52:02 +0000 cap production deploy:initial
-  INFO ---------------------------------------------------------------------------
- DEBUG [0fc92512] Running [ -d ~/.rvm ] on 192.168.8.38
- DEBUG [0fc92512] Command: [ -d ~/.rvm ]
-  INFO ---------------------------------------------------------------------------
-  INFO START 2017-01-15 19:52:23 +0000 cap production deploy:initial
-  INFO ---------------------------------------------------------------------------
- DEBUG [f841fa0c] Running [ -d ~/.rvm ] on 192.168.8.38
- DEBUG [f841fa0c] Command: [ -d ~/.rvm ]
- DEBUG [f841fa0c] Finished in 3.498 seconds with exit status 1 (failed).
- DEBUG [b39c9f40] Running [ -d /usr/local/rvm ] on 192.168.8.38
- DEBUG [b39c9f40] Command: [ -d /usr/local/rvm ]
-  INFO ---------------------------------------------------------------------------
-  INFO START 2017-01-15 19:58:40 +0000 cap production deploy:initial
-  INFO ---------------------------------------------------------------------------
- DEBUG [33f1f304] Running [ -d ~/.rvm ] on 192.168.8.38
- DEBUG [33f1f304] Command: [ -d ~/.rvm ]
-  INFO ---------------------------------------------------------------------------
-  INFO START 2017-01-15 19:58:58 +0000 cap production deploy:initial
-  INFO ---------------------------------------------------------------------------
- DEBUG [c351b214] Running [ -d ~/.rvm ] on 192.168.8.38
- DEBUG [c351b214] Command: [ -d ~/.rvm ]
- DEBUG [c351b214] Finished in 4.646 seconds with exit status 1 (failed).
- DEBUG [3d6d86b0] Running [ -d /usr/local/rvm ] on 192.168.8.38
- DEBUG [3d6d86b0] Command: [ -d /usr/local/rvm ]
-  INFO ---------------------------------------------------------------------------
-  INFO START 2017-01-15 20:00:09 +0000 cap production deploy:initial
-  INFO ---------------------------------------------------------------------------
- DEBUG [a018664b] Running [ -d ~/.rvm ] on 192.168.8.38
- DEBUG [a018664b] Command: [ -d ~/.rvm ]
- DEBUG [a018664b] Finished in 3.727 seconds with exit status 1 (failed).
- DEBUG [79c651e0] Running [ -d /usr/local/rvm ] on 192.168.8.38
- DEBUG [79c651e0] Command: [ -d /usr/local/rvm ]
-  INFO ---------------------------------------------------------------------------
-  INFO START 2017-01-15 20:01:02 +0000 cap production deploy:initial
-  INFO ---------------------------------------------------------------------------
- DEBUG [e8bf99c1] Running [ -d ~/.rvm ] on 192.168.8.38
- DEBUG [e8bf99c1] Command: [ -d ~/.rvm ]
- DEBUG [e8bf99c1] Finished in 5.537 seconds with exit status 1 (failed).
- DEBUG [b386c1b1] Running [ -d /usr/local/rvm ] on 192.168.8.38
- DEBUG [b386c1b1] Command: [ -d /usr/local/rvm ]
-  INFO ---------------------------------------------------------------------------
-  INFO START 2017-01-15 20:01:47 +0000 cap production deploy:initial
-  INFO ---------------------------------------------------------------------------
- DEBUG [9aa15af7] Running [ -d ~/.rvm ] on 192.168.8.38
- DEBUG [9aa15af7] Command: [ -d ~/.rvm ]
-  INFO ---------------------------------------------------------------------------
-  INFO START 2017-01-15 20:03:27 +0000 cap production deploy:initial
-  INFO ---------------------------------------------------------------------------
- DEBUG [fcb07c8e] Running [ -d ~/.rvm ] on 192.168.8.38
- DEBUG [fcb07c8e] Command: [ -d ~/.rvm ]
- DEBUG [fcb07c8e] Finished in 3.446 seconds with exit status 1 (failed).
- DEBUG [14d8233f] Running [ -d /usr/local/rvm ] on 192.168.8.38
- DEBUG [14d8233f] Command: [ -d /usr/local/rvm ]
- DEBUG [14d8233f] Finished in 2.868 seconds with exit status 0 (successful).
- DEBUG [3d0864aa] Running /usr/local/rvm/bin/rvm version on 192.168.8.38
- DEBUG [3d0864aa] Command: /usr/local/rvm/bin/rvm version
- DEBUG [3d0864aa] 	rvm 1.28.0 (latest) by Wayne E. Seguin <wayneeseguin@gmail.com>, Michal Papis <mpapis@gmail.com> [https://rvm.io/]
- DEBUG [3d0864aa] Finished in 2.724 seconds with exit status 0 (successful).
- DEBUG [db9a6b4a] Running /usr/local/rvm/bin/rvm current on 192.168.8.38
- DEBUG [db9a6b4a] Command: /usr/local/rvm/bin/rvm current
- DEBUG [db9a6b4a] 	ruby-2.2.5
- DEBUG [db9a6b4a] Finished in 21.309 seconds with exit status 0 (successful).
- DEBUG [802458e5] Running /usr/local/rvm/bin/rvm default do ruby --version on 192.168.8.38
- DEBUG [802458e5] Command: /usr/local/rvm/bin/rvm default do ruby --version
- DEBUG [802458e5] 	ruby 2.2.5p319 (2016-04-26 revision 54774) [x86_64-linux]
- DEBUG [802458e5] 	
- DEBUG [802458e5] Finished in 0.423 seconds with exit status 0 (successful).
-  INFO [7f8aa5b9] Running /usr/bin/env mkdir -p /tmp on 192.168.8.38
- DEBUG [7f8aa5b9] Command: /usr/bin/env mkdir -p /tmp
-  INFO [7f8aa5b9] Finished in 0.019 seconds with exit status 0 (successful).
+ DEBUG [b6529f27] Running [ -d ~/.rvm ] on 192.168.8.38
+ DEBUG [b6529f27] Command: [ -d ~/.rvm ]
+ DEBUG [b6529f27] Finished in 2.629 seconds with exit status 1 (failed).
+ DEBUG [252bdbba] Running [ -d /usr/local/rvm ] on 192.168.8.38
+ DEBUG [252bdbba] Command: [ -d /usr/local/rvm ]
+ DEBUG [252bdbba] Finished in 1.957 seconds with exit status 0 (successful).
+ DEBUG [7e4f2f67] Running /usr/local/rvm/bin/rvm version on 192.168.8.38
+ DEBUG [7e4f2f67] Command: /usr/local/rvm/bin/rvm version
+ DEBUG [7e4f2f67] 	rvm 1.28.0 (latest) by Wayne E. Seguin <wayneeseguin@gmail.com>, Michal Papis <mpapis@gmail.com> [https://rvm.io/]
+ DEBUG [7e4f2f67] Finished in 2.238 seconds with exit status 0 (successful).
+ DEBUG [6407a2d0] Running /usr/local/rvm/bin/rvm current on 192.168.8.38
+ DEBUG [6407a2d0] Command: /usr/local/rvm/bin/rvm current
+ DEBUG [6407a2d0] 	ruby-2.2.5
+ DEBUG [6407a2d0] Finished in 3.287 seconds with exit status 0 (successful).
+ DEBUG [965b64b0] Running /usr/local/rvm/bin/rvm default do ruby --version on 192.168.8.38
+ DEBUG [965b64b0] Command: /usr/local/rvm/bin/rvm default do ruby --version
+ DEBUG [965b64b0] 	ruby 2.2.5p319 (2016-04-26 revision 54774) [x86_64-linux]
+ DEBUG [965b64b0] 	
+ DEBUG [965b64b0] Finished in 0.307 seconds with exit status 0 (successful).
+  INFO [302c04b2] Running /usr/bin/env mkdir -p /tmp on 192.168.8.38
+ DEBUG [302c04b2] Command: /usr/bin/env mkdir -p /tmp
+  INFO [302c04b2] Finished in 0.008 seconds with exit status 0 (successful).
  DEBUG Uploading /tmp/git-ssh-myapp-production-root.sh 0.0%
   INFO Uploading /tmp/git-ssh-myapp-production-root.sh 100.0%
-  INFO [1205f1ca] Running /usr/bin/env chmod 700 /tmp/git-ssh-myapp-production-root.sh on 192.168.8.38
- DEBUG [1205f1ca] Command: /usr/bin/env chmod 700 /tmp/git-ssh-myapp-production-root.sh
-  INFO [1205f1ca] Finished in 0.011 seconds with exit status 0 (successful).
-  INFO [91909825] Running /usr/bin/env git ls-remote --heads git@github.com:crynus/myapp.git on 192.168.8.38
- DEBUG [91909825] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-root.sh" ; /usr/bin/env git ls-remote --heads git@github.com:crynus/myapp.git )
- DEBUG [91909825] 	Warning: Permanently added the RSA host key for IP address '192.30.253.113' to the list of known hosts.
- DEBUG [91909825] 	Error reading response length from authentication socket.
- DEBUG [91909825] 	a23ab4a310146cd5f0fb795f69f11027979b6b09
- DEBUG [91909825] 		refs/heads/master
-  INFO [91909825] Finished in 5.486 seconds with exit status 0 (successful).
-  INFO [c8fe5921] Running /usr/bin/env mkdir -p /home/root/apps/myapp/shared /home/root/apps/myapp/releases on 192.168.8.38
- DEBUG [c8fe5921] Command: /usr/bin/env mkdir -p /home/root/apps/myapp/shared /home/root/apps/myapp/releases
-  INFO [c8fe5921] Finished in 0.017 seconds with exit status 0 (successful).
-  INFO [cab657af] Running /usr/bin/env mkdir -p /home/root/apps/myapp/shared/public/assets on 192.168.8.38
- DEBUG [cab657af] Command: /usr/bin/env mkdir -p /home/root/apps/myapp/shared/public/assets
-  INFO [cab657af] Finished in 0.014 seconds with exit status 0 (successful).
- DEBUG [465fa054] Running [ -f /home/root/apps/myapp/shared/puma.rb ] on 192.168.8.38
- DEBUG [465fa054] Command: [ -f /home/root/apps/myapp/shared/puma.rb ]
- DEBUG [465fa054] Finished in 0.011 seconds with exit status 1 (failed).
-  WARN puma.rb NOT FOUND!
- DEBUG Uploading /home/root/apps/myapp/shared/puma.rb 0.0%
-  INFO Uploading /home/root/apps/myapp/shared/puma.rb 100.0%
-  INFO puma.rb generated
- DEBUG [07b9fcdf] Running [ -f /home/root/apps/myapp/current/REVISION ] on 192.168.8.38
- DEBUG [07b9fcdf] Command: [ -f /home/root/apps/myapp/current/REVISION ]
- DEBUG [07b9fcdf] Finished in 0.010 seconds with exit status 1 (failed).
- DEBUG [078e6ced] Running [ -f /home/root/apps/myapp/repo/HEAD ] on 192.168.8.38
- DEBUG [078e6ced] Command: [ -f /home/root/apps/myapp/repo/HEAD ]
- DEBUG [078e6ced] Finished in 0.015 seconds with exit status 1 (failed).
- DEBUG [47ef19a5] Running if test ! -d /home/root/apps/myapp; then echo "Directory does not exist '/home/root/apps/myapp'" 1>&2; false; fi on 192.168.8.38
- DEBUG [47ef19a5] Command: if test ! -d /home/root/apps/myapp; then echo "Directory does not exist '/home/root/apps/myapp'" 1>&2; false; fi
- DEBUG [47ef19a5] Finished in 0.016 seconds with exit status 0 (successful).
-  INFO [353e168f] Running /usr/bin/env git clone --mirror git@github.com:crynus/myapp.git /home/root/apps/myapp/repo on 192.168.8.38
- DEBUG [353e168f] Command: cd /home/root/apps/myapp && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-root.sh" ; /usr/bin/env git clone --mirror git@github.com:crynus/myapp.git /home/root/apps/myapp/repo )
- DEBUG [353e168f] 	Cloning into bare repository '/home/root/apps/myapp/repo'...
- DEBUG [353e168f] 	Error writing to authentication socket.
- DEBUG [353e168f] 	
- DEBUG [353e168f] 	remote: Counting objects: 10, done.[K
-remote: Compressing objects:  10% (1/10)   [Kremote: Compressing objects:  20% (2/10)   [K
- DEBUG [353e168f] 	remote: Compressing objects:  30% (3/10)   [Kremote: Compressing objects:  40% (4/10)   [Kremote: Compressing objects:  50% (5/10)   [Kremote: Compressing objects:  60% (6/10)   [Kremote: Compressing objects:  70% (7/10)   [K
- DEBUG [353e168f] 	remote: Compressing objects:  80% (8/10)   [Kremote: Compressing objects:  90% (9/10)   [Kremote: Compressing objects: 100% (10/10)   [Kremote: Compressing objects: 100% (10/10), done.[K
- DEBUG [353e168f] 	remote: Total 10 (delta 0), reused 10 (delta 0), pack-reused 0[K
-Receiving objects:  10% (1/10)   Receiving objects:  20% (2/10)   Receiving objects:  30% (3/10)   Receiving objects:  40% (4/10)   Receiving objects:  50% (5/10)   
- DEBUG [353e168f] 	Receiving objects:  60% (6/10)   Receiving objects:  70% (7/10)   Receiving objects:  80% (8/10)   Receiving objects:  90% (9/10)   Receiving objects: 100% (10/10)   Receiving objects: 100% (10/10), done.
- DEBUG [353e168f] 	Checking connectivity... 
- DEBUG [353e168f] 	done.
- DEBUG [353e168f] 	
-  INFO [353e168f] Finished in 1.802 seconds with exit status 0 (successful).
- DEBUG [5c2377aa] Running if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi on 192.168.8.38
- DEBUG [5c2377aa] Command: if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi
- DEBUG [5c2377aa] Finished in 0.018 seconds with exit status 0 (successful).
-  INFO [e123bb8a] Running /usr/bin/env git remote update --prune on 192.168.8.38
- DEBUG [e123bb8a] Command: cd /home/root/apps/myapp/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-root.sh" ; /usr/bin/env git remote update --prune )
- DEBUG [e123bb8a] 	Fetching origin
- DEBUG [e123bb8a] 	Error writing to authentication socket.
- DEBUG [e123bb8a] 	
-  INFO [e123bb8a] Finished in 1.728 seconds with exit status 0 (successful).
- DEBUG [4526ae75] Running if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi on 192.168.8.38
- DEBUG [4526ae75] Command: if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi
- DEBUG [4526ae75] Finished in 0.022 seconds with exit status 0 (successful).
-  INFO [5f435631] Running /usr/bin/env mkdir -p /home/root/apps/myapp/releases/20170115200404 on 192.168.8.38
- DEBUG [5f435631] Command: cd /home/root/apps/myapp/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-root.sh" ; /usr/bin/env mkdir -p /home/root/apps/myapp/releases/20170115200404 )
-  INFO [5f435631] Finished in 0.015 seconds with exit status 0 (successful).
-  INFO [34020d5a] Running /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /home/root/apps/myapp/releases/20170115200404 on 192.168.8.38
- DEBUG [34020d5a] Command: cd /home/root/apps/myapp/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-root.sh" ; /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /home/root/apps/myapp/releases/20170115200404 )
-  INFO [34020d5a] Finished in 0.019 seconds with exit status 0 (successful).
- DEBUG [627497ab] Running if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi on 192.168.8.38
- DEBUG [627497ab] Command: if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi
- DEBUG [627497ab] Finished in 0.009 seconds with exit status 0 (successful).
- DEBUG [d1edeead] Running /usr/bin/env git rev-list --max-count=1 master on 192.168.8.38
- DEBUG [d1edeead] Command: cd /home/root/apps/myapp/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-root.sh" ; /usr/bin/env git rev-list --max-count=1 master )
- DEBUG [d1edeead] 	a23ab4a310146cd5f0fb795f69f11027979b6b09
- DEBUG [d1edeead] 	
- DEBUG [d1edeead] Finished in 0.018 seconds with exit status 0 (successful).
- DEBUG [eaa55e6c] Running if test ! -d /home/root/apps/myapp/releases/20170115200404; then echo "Directory does not exist '/home/root/apps/myapp/releases/20170115200404'" 1>&2; false; fi on 192.168.8.38
- DEBUG [eaa55e6c] Command: if test ! -d /home/root/apps/myapp/releases/20170115200404; then echo "Directory does not exist '/home/root/apps/myapp/releases/20170115200404'" 1>&2; false; fi
- DEBUG [eaa55e6c] Finished in 0.011 seconds with exit status 0 (successful).
-  INFO [ce62f709] Running /usr/bin/env echo "a23ab4a310146cd5f0fb795f69f11027979b6b09" >> REVISION on 192.168.8.38
- DEBUG [ce62f709] Command: cd /home/root/apps/myapp/releases/20170115200404 && /usr/bin/env echo "a23ab4a310146cd5f0fb795f69f11027979b6b09" >> REVISION
-  INFO [ce62f709] Finished in 0.014 seconds with exit status 0 (successful).
-  INFO [f3c3a2b9] Running /usr/bin/env mkdir -p /home/root/apps/myapp/releases/20170115200404/public on 192.168.8.38
- DEBUG [f3c3a2b9] Command: /usr/bin/env mkdir -p /home/root/apps/myapp/releases/20170115200404/public
-  INFO [f3c3a2b9] Finished in 0.022 seconds with exit status 0 (successful).
- DEBUG [5f5beb62] Running [ -L /home/root/apps/myapp/releases/20170115200404/public/assets ] on 192.168.8.38
- DEBUG [5f5beb62] Command: [ -L /home/root/apps/myapp/releases/20170115200404/public/assets ]
- DEBUG [5f5beb62] Finished in 0.015 seconds with exit status 1 (failed).
- DEBUG [ef2822d8] Running [ -d /home/root/apps/myapp/releases/20170115200404/public/assets ] on 192.168.8.38
- DEBUG [ef2822d8] Command: [ -d /home/root/apps/myapp/releases/20170115200404/public/assets ]
- DEBUG [ef2822d8] Finished in 0.011 seconds with exit status 1 (failed).
-  INFO [89d25c57] Running /usr/bin/env ln -s /home/root/apps/myapp/shared/public/assets /home/root/apps/myapp/releases/20170115200404/public/assets on 192.168.8.38
- DEBUG [89d25c57] Command: /usr/bin/env ln -s /home/root/apps/myapp/shared/public/assets /home/root/apps/myapp/releases/20170115200404/public/assets
-  INFO [89d25c57] Finished in 0.016 seconds with exit status 0 (successful).
- DEBUG [e6c364de] Running if test ! -d /home/root/apps/myapp/releases/20170115200404; then echo "Directory does not exist '/home/root/apps/myapp/releases/20170115200404'" 1>&2; false; fi on 192.168.8.38
- DEBUG [e6c364de] Command: if test ! -d /home/root/apps/myapp/releases/20170115200404; then echo "Directory does not exist '/home/root/apps/myapp/releases/20170115200404'" 1>&2; false; fi
- DEBUG [e6c364de] Finished in 0.010 seconds with exit status 0 (successful).
- DEBUG [699cc010] Running /usr/local/rvm/bin/rvm default do bundle check --path /home/root/apps/myapp/shared/bundle on 192.168.8.38
- DEBUG [699cc010] Command: cd /home/root/apps/myapp/releases/20170115200404 && /usr/local/rvm/bin/rvm default do bundle check --path /home/root/apps/myapp/shared/bundle
- DEBUG [699cc010] 	[31mThe following gems are missing[0m
- DEBUG [699cc010] 	
- DEBUG [699cc010] 	[31m * net-ssh (4.0.1)[0m
- DEBUG [699cc010] 	
- DEBUG [699cc010] 	[31m * net-scp (1.2.1)[0m
- DEBUG [699cc010] 	
- DEBUG [699cc010] 	[31m * sshkit (1.11.5)[0m
- DEBUG [699cc010] 	
- DEBUG [699cc010] 	[31m * airbrussh (1.1.2)[0m
- DEBUG [699cc010] 	
- DEBUG [699cc010] 	[31m * capistrano-harrow (0.5.3)[0m
- DEBUG [699cc010] 	
- DEBUG [699cc010] 	[31m * i18n (0.7.0)[0m
- DEBUG [699cc010] 	
- DEBUG [699cc010] 	[31m * capistrano (3.7.1)[0m
- DEBUG [699cc010] 	
- DEBUG [699cc010] 	[31m * capistrano-bundler (1.2.0)[0m
- DEBUG [699cc010] 	
- DEBUG [699cc010] 	[31m * capistrano-rails (1.2.2)[0m
- DEBUG [699cc010] 	
- DEBUG [699cc010] 	[31m * capistrano-rvm (0.1.2)[0m
- DEBUG [699cc010] 	
- DEBUG [699cc010] 	[31m * puma (3.6.2)[0m
- DEBUG [699cc010] 	
-[31m * capistrano3-puma (1.2.1)[0m
-[33mInstall missing gems with `bundle install`[0m
- DEBUG [699cc010] Finished in 0.780 seconds with exit status 1 (failed).
-  INFO [5e67e896] Running /usr/local/rvm/bin/rvm default do bundle install --path /home/root/apps/myapp/shared/bundle --without development test --deployment --quiet on 192.168.8.38
- DEBUG [5e67e896] Command: cd /home/root/apps/myapp/releases/20170115200404 && /usr/local/rvm/bin/rvm default do bundle install --path /home/root/apps/myapp/shared/bundle --without development test --deployment --quiet
- DEBUG [5e67e896] 	[31mYour bundle is locked to puma (3.6.2), but that version could not be found in
-any of the sources listed in your Gemfile. If you haven't changed sources, that
-means the author of puma (3.6.2) has removed it. You'll need to update your
-bundle to a different version of puma (3.6.2) that hasn't been removed in order
-to install.[0m
-  INFO ---------------------------------------------------------------------------
-  INFO START 2017-01-15 20:06:10 +0000 cap production deploy:initial
-  INFO ---------------------------------------------------------------------------
- DEBUG [bbba8d65] Running [ -d ~/.rvm ] on 192.168.8.38
- DEBUG [bbba8d65] Command: [ -d ~/.rvm ]
- DEBUG [bbba8d65] Finished in 4.750 seconds with exit status 1 (failed).
- DEBUG [884a51e8] Running [ -d /usr/local/rvm ] on 192.168.8.38
- DEBUG [884a51e8] Command: [ -d /usr/local/rvm ]
- DEBUG [884a51e8] Finished in 2.176 seconds with exit status 0 (successful).
- DEBUG [95059b79] Running /usr/local/rvm/bin/rvm version on 192.168.8.38
- DEBUG [95059b79] Command: /usr/local/rvm/bin/rvm version
- DEBUG [95059b79] 	rvm 1.28.0 (latest) by Wayne E. Seguin <wayneeseguin@gmail.com>, Michal Papis <mpapis@gmail.com> [https://rvm.io/]
- DEBUG [95059b79] Finished in 2.433 seconds with exit status 0 (successful).
- DEBUG [1179f30e] Running /usr/local/rvm/bin/rvm current on 192.168.8.38
- DEBUG [1179f30e] Command: /usr/local/rvm/bin/rvm current
- DEBUG [1179f30e] 	ruby-2.2.5
- DEBUG [1179f30e] Finished in 3.844 seconds with exit status 0 (successful).
- DEBUG [83130c2e] Running /usr/local/rvm/bin/rvm default do ruby --version on 192.168.8.38
- DEBUG [83130c2e] Command: /usr/local/rvm/bin/rvm default do ruby --version
- DEBUG [83130c2e] 	ruby 2.2.5p319 (2016-04-26 revision 54774) [x86_64-linux]
- DEBUG [83130c2e] 	
- DEBUG [83130c2e] Finished in 0.447 seconds with exit status 0 (successful).
-  INFO [3f8db8c8] Running /usr/bin/env mkdir -p /tmp on 192.168.8.38
- DEBUG [3f8db8c8] Command: /usr/bin/env mkdir -p /tmp
-  INFO [3f8db8c8] Finished in 0.018 seconds with exit status 0 (successful).
- DEBUG Uploading /tmp/git-ssh-myapp-production-root.sh 0.0%
-  INFO Uploading /tmp/git-ssh-myapp-production-root.sh 100.0%
-  INFO [209a47dd] Running /usr/bin/env chmod 700 /tmp/git-ssh-myapp-production-root.sh on 192.168.8.38
- DEBUG [209a47dd] Command: /usr/bin/env chmod 700 /tmp/git-ssh-myapp-production-root.sh
-  INFO [209a47dd] Finished in 0.018 seconds with exit status 0 (successful).
-  INFO [1f889bb5] Running /usr/bin/env git ls-remote --heads git@github.com:crynus/myapp.git on 192.168.8.38
- DEBUG [1f889bb5] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-root.sh" ; /usr/bin/env git ls-remote --heads git@github.com:crynus/myapp.git )
- DEBUG [1f889bb5] 	Error writing to authentication socket.
- DEBUG [1f889bb5] 	
- DEBUG [1f889bb5] 	a23ab4a310146cd5f0fb795f69f11027979b6b09
- DEBUG [1f889bb5] 		
- DEBUG [1f889bb5] 	refs/heads/master
- DEBUG [1f889bb5] 	
-  INFO [1f889bb5] Finished in 2.152 seconds with exit status 0 (successful).
-  INFO [f226c256] Running /usr/bin/env mkdir -p /home/root/apps/myapp/shared /home/root/apps/myapp/releases on 192.168.8.38
- DEBUG [f226c256] Command: /usr/bin/env mkdir -p /home/root/apps/myapp/shared /home/root/apps/myapp/releases
-  INFO [f226c256] Finished in 0.019 seconds with exit status 0 (successful).
-  INFO [6b2e88ad] Running /usr/bin/env mkdir -p /home/root/apps/myapp/shared/public/assets on 192.168.8.38
- DEBUG [6b2e88ad] Command: /usr/bin/env mkdir -p /home/root/apps/myapp/shared/public/assets
-  INFO [6b2e88ad] Finished in 0.014 seconds with exit status 0 (successful).
- DEBUG [204d82f7] Running [ -f /home/root/apps/myapp/shared/puma.rb ] on 192.168.8.38
- DEBUG [204d82f7] Command: [ -f /home/root/apps/myapp/shared/puma.rb ]
- DEBUG [204d82f7] Finished in 0.016 seconds with exit status 0 (successful).
- DEBUG [2a00b119] Running [ -f /home/root/apps/myapp/current/REVISION ] on 192.168.8.38
- DEBUG [2a00b119] Command: [ -f /home/root/apps/myapp/current/REVISION ]
- DEBUG [2a00b119] Finished in 0.018 seconds with exit status 1 (failed).
- DEBUG [71415c62] Running [ -f /home/root/apps/myapp/repo/HEAD ] on 192.168.8.38
- DEBUG [71415c62] Command: [ -f /home/root/apps/myapp/repo/HEAD ]
- DEBUG [71415c62] Finished in 0.010 seconds with exit status 0 (successful).
+  INFO [9c65d542] Running /usr/bin/env chmod 700 /tmp/git-ssh-myapp-production-root.sh on 192.168.8.38
+ DEBUG [9c65d542] Command: /usr/bin/env chmod 700 /tmp/git-ssh-myapp-production-root.sh
+  INFO [9c65d542] Finished in 0.008 seconds with exit status 0 (successful).
+  INFO [25a0d800] Running /usr/bin/env git ls-remote --heads https://github.com/crynus/myapp.git on 192.168.8.38
+ DEBUG [25a0d800] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-root.sh" ; /usr/bin/env git ls-remote --heads https://github.com/crynus/myapp.git )
+ DEBUG [25a0d800] 	027a08b43c9380f8d7e48d3eb3e6016949928385
+ DEBUG [25a0d800] 		
+ DEBUG [25a0d800] 	refs/heads/master
+ DEBUG [25a0d800] 	
+  INFO [25a0d800] Finished in 3.672 seconds with exit status 0 (successful).
+  INFO [9d9f8334] Running /usr/bin/env mkdir -p /home/root/apps/myapp/shared /home/root/apps/myapp/releases on 192.168.8.38
+ DEBUG [9d9f8334] Command: /usr/bin/env mkdir -p /home/root/apps/myapp/shared /home/root/apps/myapp/releases
+  INFO [9d9f8334] Finished in 0.013 seconds with exit status 0 (successful).
+  INFO [0b37cfd2] Running /usr/bin/env mkdir -p /home/root/apps/myapp/shared/public/assets on 192.168.8.38
+ DEBUG [0b37cfd2] Command: /usr/bin/env mkdir -p /home/root/apps/myapp/shared/public/assets
+  INFO [0b37cfd2] Finished in 0.011 seconds with exit status 0 (successful).
+ DEBUG [0e0a80e4] Running [ -f /home/root/apps/myapp/shared/puma.rb ] on 192.168.8.38
+ DEBUG [0e0a80e4] Command: [ -f /home/root/apps/myapp/shared/puma.rb ]
+ DEBUG [0e0a80e4] Finished in 0.007 seconds with exit status 0 (successful).
+ DEBUG [9e8a9ec1] Running [ -f /home/root/apps/myapp/current/REVISION ] on 192.168.8.38
+ DEBUG [9e8a9ec1] Command: [ -f /home/root/apps/myapp/current/REVISION ]
+ DEBUG [9e8a9ec1] Finished in 0.007 seconds with exit status 1 (failed).
+ DEBUG [2acf1c82] Running [ -f /home/root/apps/myapp/repo/HEAD ] on 192.168.8.38
+ DEBUG [2acf1c82] Command: [ -f /home/root/apps/myapp/repo/HEAD ]
+ DEBUG [2acf1c82] Finished in 0.007 seconds with exit status 0 (successful).
   INFO The repository mirror is at /home/root/apps/myapp/repo
- DEBUG [e94496bb] Running if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi on 192.168.8.38
- DEBUG [e94496bb] Command: if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi
- DEBUG [e94496bb] Finished in 0.018 seconds with exit status 0 (successful).
-  INFO [f09b790d] Running /usr/bin/env git remote update --prune on 192.168.8.38
- DEBUG [f09b790d] Command: cd /home/root/apps/myapp/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-root.sh" ; /usr/bin/env git remote update --prune )
- DEBUG [f09b790d] 	Fetching origin
- DEBUG [f09b790d] 	
- DEBUG [f09b790d] 	Error writing to authentication socket.
- DEBUG [f09b790d] 	
-  INFO [f09b790d] Finished in 1.724 seconds with exit status 0 (successful).
- DEBUG [ef02989d] Running if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi on 192.168.8.38
- DEBUG [ef02989d] Command: if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi
- DEBUG [ef02989d] Finished in 0.010 seconds with exit status 0 (successful).
-  INFO [a44eb76f] Running /usr/bin/env mkdir -p /home/root/apps/myapp/releases/20170115200626 on 192.168.8.38
- DEBUG [a44eb76f] Command: cd /home/root/apps/myapp/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-root.sh" ; /usr/bin/env mkdir -p /home/root/apps/myapp/releases/20170115200626 )
-  INFO [a44eb76f] Finished in 0.018 seconds with exit status 0 (successful).
-  INFO [2c4d823a] Running /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /home/root/apps/myapp/releases/20170115200626 on 192.168.8.38
- DEBUG [2c4d823a] Command: cd /home/root/apps/myapp/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-root.sh" ; /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /home/root/apps/myapp/releases/20170115200626 )
-  INFO [2c4d823a] Finished in 0.024 seconds with exit status 0 (successful).
- DEBUG [f1367863] Running if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi on 192.168.8.38
- DEBUG [f1367863] Command: if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi
- DEBUG [f1367863] Finished in 0.012 seconds with exit status 0 (successful).
- DEBUG [81a566fa] Running /usr/bin/env git rev-list --max-count=1 master on 192.168.8.38
- DEBUG [81a566fa] Command: cd /home/root/apps/myapp/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-root.sh" ; /usr/bin/env git rev-list --max-count=1 master )
- DEBUG [81a566fa] 	a23ab4a310146cd5f0fb795f69f11027979b6b09
- DEBUG [81a566fa] 	
- DEBUG [81a566fa] Finished in 0.016 seconds with exit status 0 (successful).
- DEBUG [afdf1b49] Running if test ! -d /home/root/apps/myapp/releases/20170115200626; then echo "Directory does not exist '/home/root/apps/myapp/releases/20170115200626'" 1>&2; false; fi on 192.168.8.38
- DEBUG [afdf1b49] Command: if test ! -d /home/root/apps/myapp/releases/20170115200626; then echo "Directory does not exist '/home/root/apps/myapp/releases/20170115200626'" 1>&2; false; fi
- DEBUG [afdf1b49] Finished in 0.015 seconds with exit status 0 (successful).
-  INFO [a10d4c67] Running /usr/bin/env echo "a23ab4a310146cd5f0fb795f69f11027979b6b09" >> REVISION on 192.168.8.38
- DEBUG [a10d4c67] Command: cd /home/root/apps/myapp/releases/20170115200626 && /usr/bin/env echo "a23ab4a310146cd5f0fb795f69f11027979b6b09" >> REVISION
-  INFO [a10d4c67] Finished in 0.012 seconds with exit status 0 (successful).
-  INFO [426d4391] Running /usr/bin/env mkdir -p /home/root/apps/myapp/releases/20170115200626/public on 192.168.8.38
- DEBUG [426d4391] Command: /usr/bin/env mkdir -p /home/root/apps/myapp/releases/20170115200626/public
-  INFO [426d4391] Finished in 0.015 seconds with exit status 0 (successful).
- DEBUG [022e5b5f] Running [ -L /home/root/apps/myapp/releases/20170115200626/public/assets ] on 192.168.8.38
- DEBUG [022e5b5f] Command: [ -L /home/root/apps/myapp/releases/20170115200626/public/assets ]
- DEBUG [022e5b5f] Finished in 0.010 seconds with exit status 1 (failed).
- DEBUG [d181caba] Running [ -d /home/root/apps/myapp/releases/20170115200626/public/assets ] on 192.168.8.38
- DEBUG [d181caba] Command: [ -d /home/root/apps/myapp/releases/20170115200626/public/assets ]
- DEBUG [d181caba] Finished in 0.010 seconds with exit status 1 (failed).
-  INFO [5cae6fab] Running /usr/bin/env ln -s /home/root/apps/myapp/shared/public/assets /home/root/apps/myapp/releases/20170115200626/public/assets on 192.168.8.38
- DEBUG [5cae6fab] Command: /usr/bin/env ln -s /home/root/apps/myapp/shared/public/assets /home/root/apps/myapp/releases/20170115200626/public/assets
-  INFO [5cae6fab] Finished in 0.021 seconds with exit status 0 (successful).
- DEBUG [b4a0404b] Running if test ! -d /home/root/apps/myapp/releases/20170115200626; then echo "Directory does not exist '/home/root/apps/myapp/releases/20170115200626'" 1>&2; false; fi on 192.168.8.38
- DEBUG [b4a0404b] Command: if test ! -d /home/root/apps/myapp/releases/20170115200626; then echo "Directory does not exist '/home/root/apps/myapp/releases/20170115200626'" 1>&2; false; fi
- DEBUG [b4a0404b] Finished in 0.012 seconds with exit status 0 (successful).
- DEBUG [d811571a] Running /usr/local/rvm/bin/rvm default do bundle check --path /home/root/apps/myapp/shared/bundle on 192.168.8.38
- DEBUG [d811571a] Command: cd /home/root/apps/myapp/releases/20170115200626 && /usr/local/rvm/bin/rvm default do bundle check --path /home/root/apps/myapp/shared/bundle
- DEBUG [d811571a] 	[31mThe following gems are missing[0m
+ DEBUG [db4c5a26] Running if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi on 192.168.8.38
+ DEBUG [db4c5a26] Command: if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi
+ DEBUG [db4c5a26] Finished in 0.011 seconds with exit status 0 (successful).
+  INFO [6e1465ad] Running /usr/bin/env git remote update --prune on 192.168.8.38
+ DEBUG [6e1465ad] Command: cd /home/root/apps/myapp/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-root.sh" ; /usr/bin/env git remote update --prune )
+ DEBUG [6e1465ad] 	Fetching origin
+ DEBUG [6e1465ad] 	
+ DEBUG [6e1465ad] 	Error writing to authentication socket.
+ DEBUG [6e1465ad] 	
+ DEBUG [6e1465ad] 	remote: Counting objects: 6, done.[K
+ DEBUG [6e1465ad] 	
+ DEBUG [6e1465ad] 	remote: Compressing objects:  33% (1/3)   [K
+ DEBUG [6e1465ad] 	remote: Compressing objects:  66% (2/3)   [K
+ DEBUG [6e1465ad] 	remote: Compressing objects: 100% (3/3)   [K
+ DEBUG [6e1465ad] 	remote: Compressing objects: 10
+ DEBUG [6e1465ad] 	0% (3/3), done.[K
+ DEBUG [6e1465ad] 	
+ DEBUG [6e1465ad] 	remote: Total 6 (delta 3), reused 6 (delta 3), pack-reused 0[K
+ DEBUG [6e1465ad] 	
+ DEBUG [6e1465ad] 	Unpacking objects:  16% (1/6)   
+ DEBUG [6e1465ad] 	Unpacking objects:  33% (2/6)   
+ DEBUG [6e1465ad] 	Unpacking objects:  50% (3/6)   
+ DEBUG [6e1465ad] 	Unpacking objects:  66% (4/6)   
+ DEBUG [6e1465ad] 	Unpacking objects:  83% (5/6)   
+ DEBUG [6e1465ad] 	Unpacking objects: 100% (6/6)   
+ DEBUG [6e1465ad] 	Unpacking objects: 100% (6/6), done.
+ DEBUG [6e1465ad] 	
+ DEBUG [6e1465ad] 	From github.com:crynus/myapp
+ DEBUG [6e1465ad] 	
+ DEBUG [6e1465ad] 	   c964af3..027a08b  master     -> master
+ DEBUG [6e1465ad] 	
+  INFO [6e1465ad] Finished in 1.971 seconds with exit status 0 (successful).
+ DEBUG [42521f3f] Running if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi on 192.168.8.38
+ DEBUG [42521f3f] Command: if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi
+ DEBUG [42521f3f] Finished in 0.010 seconds with exit status 0 (successful).
+  INFO [20f39e4f] Running /usr/bin/env mkdir -p /home/root/apps/myapp/releases/20170115214445 on 192.168.8.38
+ DEBUG [20f39e4f] Command: cd /home/root/apps/myapp/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-root.sh" ; /usr/bin/env mkdir -p /home/root/apps/myapp/releases/20170115214445 )
+  INFO [20f39e4f] Finished in 0.011 seconds with exit status 0 (successful).
+  INFO [3390273f] Running /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /home/root/apps/myapp/releases/20170115214445 on 192.168.8.38
+ DEBUG [3390273f] Command: cd /home/root/apps/myapp/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-root.sh" ; /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /home/root/apps/myapp/releases/20170115214445 )
+  INFO [3390273f] Finished in 0.018 seconds with exit status 0 (successful).
+ DEBUG [55aaaa55] Running if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi on 192.168.8.38
+ DEBUG [55aaaa55] Command: if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi
+ DEBUG [55aaaa55] Finished in 0.015 seconds with exit status 0 (successful).
+ DEBUG [4df04b80] Running /usr/bin/env git rev-list --max-count=1 master on 192.168.8.38
+ DEBUG [4df04b80] Command: cd /home/root/apps/myapp/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-root.sh" ; /usr/bin/env git rev-list --max-count=1 master )
+ DEBUG [4df04b80] 	027a08b43c9380f8d7e48d3eb3e6016949928385
+ DEBUG [4df04b80] Finished in 0.009 seconds with exit status 0 (successful).
+ DEBUG [0f11d2ee] Running if test ! -d /home/root/apps/myapp/releases/20170115214445; then echo "Directory does not exist '/home/root/apps/myapp/releases/20170115214445'" 1>&2; false; fi on 192.168.8.38
+ DEBUG [0f11d2ee] Command: if test ! -d /home/root/apps/myapp/releases/20170115214445; then echo "Directory does not exist '/home/root/apps/myapp/releases/20170115214445'" 1>&2; false; fi
+ DEBUG [0f11d2ee] Finished in 0.007 seconds with exit status 0 (successful).
+  INFO [8cf25f3d] Running /usr/bin/env echo "027a08b43c9380f8d7e48d3eb3e6016949928385" >> REVISION on 192.168.8.38
+ DEBUG [8cf25f3d] Command: cd /home/root/apps/myapp/releases/20170115214445 && /usr/bin/env echo "027a08b43c9380f8d7e48d3eb3e6016949928385" >> REVISION
+  INFO [8cf25f3d] Finished in 0.010 seconds with exit status 0 (successful).
+  INFO [7a75b7c2] Running /usr/bin/env mkdir -p /home/root/apps/myapp/releases/20170115214445/public on 192.168.8.38
+ DEBUG [7a75b7c2] Command: /usr/bin/env mkdir -p /home/root/apps/myapp/releases/20170115214445/public
+  INFO [7a75b7c2] Finished in 0.011 seconds with exit status 0 (successful).
+ DEBUG [52638309] Running [ -L /home/root/apps/myapp/releases/20170115214445/public/assets ] on 192.168.8.38
+ DEBUG [52638309] Command: [ -L /home/root/apps/myapp/releases/20170115214445/public/assets ]
+ DEBUG [52638309] Finished in 0.009 seconds with exit status 1 (failed).
+ DEBUG [7db30a4e] Running [ -d /home/root/apps/myapp/releases/20170115214445/public/assets ] on 192.168.8.38
+ DEBUG [7db30a4e] Command: [ -d /home/root/apps/myapp/releases/20170115214445/public/assets ]
+ DEBUG [7db30a4e] Finished in 0.007 seconds with exit status 1 (failed).
+  INFO [9aa825e6] Running /usr/bin/env ln -s /home/root/apps/myapp/shared/public/assets /home/root/apps/myapp/releases/20170115214445/public/assets on 192.168.8.38
+ DEBUG [9aa825e6] Command: /usr/bin/env ln -s /home/root/apps/myapp/shared/public/assets /home/root/apps/myapp/releases/20170115214445/public/assets
+  INFO [9aa825e6] Finished in 0.008 seconds with exit status 0 (successful).
+ DEBUG [55693d36] Running if test ! -d /home/root/apps/myapp/releases/20170115214445; then echo "Directory does not exist '/home/root/apps/myapp/releases/20170115214445'" 1>&2; false; fi on 192.168.8.38
+ DEBUG [55693d36] Command: if test ! -d /home/root/apps/myapp/releases/20170115214445; then echo "Directory does not exist '/home/root/apps/myapp/releases/20170115214445'" 1>&2; false; fi
+ DEBUG [55693d36] Finished in 0.010 seconds with exit status 0 (successful).
+ DEBUG [9fc239e7] Running /usr/local/rvm/bin/rvm default do bundle check --path /home/root/apps/myapp/shared/bundle on 192.168.8.38
+ DEBUG [9fc239e7] Command: cd /home/root/apps/myapp/releases/20170115214445 && /usr/local/rvm/bin/rvm default do bundle check --path /home/root/apps/myapp/shared/bundle
+ DEBUG [9fc239e7] 	[31mThe following gems are missing[0m
 [31m * net-ssh (4.0.1)[0m
 [31m * net-scp (1.2.1)[0m
 [31m * sshkit (1.11.5)[0m
@@ -383,676 +137,35 @@ to install.[0m
 [31m * puma (3.6.2)[0m
 [31m * capistrano3-puma (1.2.1)[0m
 [33mInstall missing gems with `bundle install`[0m
- DEBUG [d811571a] Finished in 0.825 seconds with exit status 1 (failed).
-  INFO [4ba0bf0c] Running /usr/local/rvm/bin/rvm default do bundle install --path /home/root/apps/myapp/shared/bundle --without development test --deployment --quiet on 192.168.8.38
- DEBUG [4ba0bf0c] Command: cd /home/root/apps/myapp/releases/20170115200626 && /usr/local/rvm/bin/rvm default do bundle install --path /home/root/apps/myapp/shared/bundle --without development test --deployment --quiet
- DEBUG [4ba0bf0c] 	[31mYour bundle is locked to puma (3.6.2), but that version could not be found in
- DEBUG [4ba0bf0c] 	
- DEBUG [4ba0bf0c] 	any of the sources listed in your Gemfile. If you haven't changed sources, that
-means the author of puma (3.6.2) has removed it. You'll need to update your
-bundle to a different version of puma (3.6.2) that hasn't been removed in order
-to install.[0m
-  INFO ---------------------------------------------------------------------------
-  INFO START 2017-01-15 20:07:34 +0000 cap production deploy:initial
-  INFO ---------------------------------------------------------------------------
- DEBUG [0ba4b89f] Running [ -d ~/.rvm ] on 192.168.8.38
- DEBUG [0ba4b89f] Command: [ -d ~/.rvm ]
-  INFO ---------------------------------------------------------------------------
-  INFO START 2017-01-15 20:07:51 +0000 cap production deploy:initial
-  INFO ---------------------------------------------------------------------------
- DEBUG [3e58d800] Running [ -d ~/.rvm ] on 192.168.8.38
- DEBUG [3e58d800] Command: [ -d ~/.rvm ]
-  INFO ---------------------------------------------------------------------------
-  INFO START 2017-01-15 20:08:15 +0000 cap production deploy:initial
-  INFO ---------------------------------------------------------------------------
- DEBUG [669be5db] Running [ -d ~/.rvm ] on 192.168.8.38
- DEBUG [669be5db] Command: [ -d ~/.rvm ]
- DEBUG [669be5db] Finished in 2.355 seconds with exit status 1 (failed).
- DEBUG [bd3b67b8] Running [ -d /usr/local/rvm ] on 192.168.8.38
- DEBUG [bd3b67b8] Command: [ -d /usr/local/rvm ]
- DEBUG [bd3b67b8] Finished in 2.067 seconds with exit status 0 (successful).
- DEBUG [62751151] Running /usr/local/rvm/bin/rvm version on 192.168.8.38
- DEBUG [62751151] Command: /usr/local/rvm/bin/rvm version
- DEBUG [62751151] 	rvm 1.28.0 (latest) by Wayne E. Seguin <wayneeseguin@gmail.com>, Michal Papis <mpapis@gmail.com> [https://rvm.io/]
- DEBUG [62751151] Finished in 2.273 seconds with exit status 0 (successful).
- DEBUG [c224419c] Running /usr/local/rvm/bin/rvm current on 192.168.8.38
- DEBUG [c224419c] Command: /usr/local/rvm/bin/rvm current
- DEBUG [c224419c] 	ruby-2.2.5
- DEBUG [c224419c] 	
- DEBUG [c224419c] Finished in 3.024 seconds with exit status 0 (successful).
- DEBUG [1678009c] Running /usr/local/rvm/bin/rvm default do ruby --version on 192.168.8.38
- DEBUG [1678009c] Command: /usr/local/rvm/bin/rvm default do ruby --version
- DEBUG [1678009c] 	ruby 2.2.5p319 (2016-04-26 revision 54774) [x86_64-linux]
- DEBUG [1678009c] Finished in 0.411 seconds with exit status 0 (successful).
-  INFO [abf562f0] Running /usr/bin/env mkdir -p /tmp on 192.168.8.38
- DEBUG [abf562f0] Command: /usr/bin/env mkdir -p /tmp
-  INFO [abf562f0] Finished in 0.014 seconds with exit status 0 (successful).
- DEBUG Uploading /tmp/git-ssh-myapp-production-root.sh 0.0%
-  INFO Uploading /tmp/git-ssh-myapp-production-root.sh 100.0%
-  INFO [a57749f5] Running /usr/bin/env chmod 700 /tmp/git-ssh-myapp-production-root.sh on 192.168.8.38
- DEBUG [a57749f5] Command: /usr/bin/env chmod 700 /tmp/git-ssh-myapp-production-root.sh
-  INFO [a57749f5] Finished in 0.015 seconds with exit status 0 (successful).
-  INFO [3d84501c] Running /usr/bin/env git ls-remote --heads git@github.com:crynus/myapp.git on 192.168.8.38
- DEBUG [3d84501c] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-root.sh" ; /usr/bin/env git ls-remote --heads git@github.com:crynus/myapp.git )
- DEBUG [3d84501c] 	Error reading response length from authentication socket.
- DEBUG [3d84501c] 	a23ab4a310146cd5f0fb795f69f11027979b6b09	refs/heads/master
-  INFO [3d84501c] Finished in 1.839 seconds with exit status 0 (successful).
-  INFO [4baa0dee] Running /usr/bin/env mkdir -p /home/root/apps/myapp/shared /home/root/apps/myapp/releases on 192.168.8.38
- DEBUG [4baa0dee] Command: /usr/bin/env mkdir -p /home/root/apps/myapp/shared /home/root/apps/myapp/releases
-  INFO [4baa0dee] Finished in 0.017 seconds with exit status 0 (successful).
-  INFO [5afc01ec] Running /usr/bin/env mkdir -p /home/root/apps/myapp/shared/public/assets on 192.168.8.38
- DEBUG [5afc01ec] Command: /usr/bin/env mkdir -p /home/root/apps/myapp/shared/public/assets
-  INFO [5afc01ec] Finished in 0.014 seconds with exit status 0 (successful).
- DEBUG [ebb6006b] Running [ -f /home/root/apps/myapp/shared/puma.rb ] on 192.168.8.38
- DEBUG [ebb6006b] Command: [ -f /home/root/apps/myapp/shared/puma.rb ]
- DEBUG [ebb6006b] Finished in 0.011 seconds with exit status 0 (successful).
- DEBUG [622aaea5] Running [ -f /home/root/apps/myapp/current/REVISION ] on 192.168.8.38
- DEBUG [622aaea5] Command: [ -f /home/root/apps/myapp/current/REVISION ]
- DEBUG [622aaea5] Finished in 0.010 seconds with exit status 1 (failed).
- DEBUG [b3aa3c2e] Running [ -f /home/root/apps/myapp/repo/HEAD ] on 192.168.8.38
- DEBUG [b3aa3c2e] Command: [ -f /home/root/apps/myapp/repo/HEAD ]
- DEBUG [b3aa3c2e] Finished in 0.011 seconds with exit status 0 (successful).
-  INFO The repository mirror is at /home/root/apps/myapp/repo
- DEBUG [8f74b55b] Running if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi on 192.168.8.38
- DEBUG [8f74b55b] Command: if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi
- DEBUG [8f74b55b] Finished in 0.012 seconds with exit status 0 (successful).
-  INFO [8db9eeff] Running /usr/bin/env git remote update --prune on 192.168.8.38
- DEBUG [8db9eeff] Command: cd /home/root/apps/myapp/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-root.sh" ; /usr/bin/env git remote update --prune )
- DEBUG [8db9eeff] 	Fetching origin
- DEBUG [8db9eeff] 	Error reading response length from authentication socket.
-  INFO [8db9eeff] Finished in 2.063 seconds with exit status 0 (successful).
- DEBUG [774f9952] Running if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi on 192.168.8.38
- DEBUG [774f9952] Command: if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi
- DEBUG [774f9952] Finished in 0.013 seconds with exit status 0 (successful).
-  INFO [4cbe0aa8] Running /usr/bin/env mkdir -p /home/root/apps/myapp/releases/20170115200827 on 192.168.8.38
- DEBUG [4cbe0aa8] Command: cd /home/root/apps/myapp/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-root.sh" ; /usr/bin/env mkdir -p /home/root/apps/myapp/releases/20170115200827 )
-  INFO [4cbe0aa8] Finished in 0.014 seconds with exit status 0 (successful).
-  INFO [a72b5e6a] Running /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /home/root/apps/myapp/releases/20170115200827 on 192.168.8.38
- DEBUG [a72b5e6a] Command: cd /home/root/apps/myapp/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-root.sh" ; /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /home/root/apps/myapp/releases/20170115200827 )
-  INFO [a72b5e6a] Finished in 0.020 seconds with exit status 0 (successful).
- DEBUG [4159ef9e] Running if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi on 192.168.8.38
- DEBUG [4159ef9e] Command: if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi
- DEBUG [4159ef9e] Finished in 0.010 seconds with exit status 0 (successful).
- DEBUG [d017c570] Running /usr/bin/env git rev-list --max-count=1 master on 192.168.8.38
- DEBUG [d017c570] Command: cd /home/root/apps/myapp/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-root.sh" ; /usr/bin/env git rev-list --max-count=1 master )
- DEBUG [d017c570] 	a23ab4a310146cd5f0fb795f69f11027979b6b09
- DEBUG [d017c570] 	
- DEBUG [d017c570] Finished in 0.016 seconds with exit status 0 (successful).
- DEBUG [db8151b0] Running if test ! -d /home/root/apps/myapp/releases/20170115200827; then echo "Directory does not exist '/home/root/apps/myapp/releases/20170115200827'" 1>&2; false; fi on 192.168.8.38
- DEBUG [db8151b0] Command: if test ! -d /home/root/apps/myapp/releases/20170115200827; then echo "Directory does not exist '/home/root/apps/myapp/releases/20170115200827'" 1>&2; false; fi
- DEBUG [db8151b0] Finished in 0.010 seconds with exit status 0 (successful).
-  INFO [18114d5d] Running /usr/bin/env echo "a23ab4a310146cd5f0fb795f69f11027979b6b09" >> REVISION on 192.168.8.38
- DEBUG [18114d5d] Command: cd /home/root/apps/myapp/releases/20170115200827 && /usr/bin/env echo "a23ab4a310146cd5f0fb795f69f11027979b6b09" >> REVISION
-  INFO [18114d5d] Finished in 0.018 seconds with exit status 0 (successful).
-  INFO [b2435b71] Running /usr/bin/env mkdir -p /home/root/apps/myapp/releases/20170115200827/public on 192.168.8.38
- DEBUG [b2435b71] Command: /usr/bin/env mkdir -p /home/root/apps/myapp/releases/20170115200827/public
-  INFO [b2435b71] Finished in 0.020 seconds with exit status 0 (successful).
- DEBUG [9756a294] Running [ -L /home/root/apps/myapp/releases/20170115200827/public/assets ] on 192.168.8.38
- DEBUG [9756a294] Command: [ -L /home/root/apps/myapp/releases/20170115200827/public/assets ]
- DEBUG [9756a294] Finished in 0.012 seconds with exit status 1 (failed).
- DEBUG [a009e16d] Running [ -d /home/root/apps/myapp/releases/20170115200827/public/assets ] on 192.168.8.38
- DEBUG [a009e16d] Command: [ -d /home/root/apps/myapp/releases/20170115200827/public/assets ]
- DEBUG [a009e16d] Finished in 0.012 seconds with exit status 1 (failed).
-  INFO [ddf06c38] Running /usr/bin/env ln -s /home/root/apps/myapp/shared/public/assets /home/root/apps/myapp/releases/20170115200827/public/assets on 192.168.8.38
- DEBUG [ddf06c38] Command: /usr/bin/env ln -s /home/root/apps/myapp/shared/public/assets /home/root/apps/myapp/releases/20170115200827/public/assets
-  INFO [ddf06c38] Finished in 0.015 seconds with exit status 0 (successful).
- DEBUG [eecdad1f] Running if test ! -d /home/root/apps/myapp/releases/20170115200827; then echo "Directory does not exist '/home/root/apps/myapp/releases/20170115200827'" 1>&2; false; fi on 192.168.8.38
- DEBUG [eecdad1f] Command: if test ! -d /home/root/apps/myapp/releases/20170115200827; then echo "Directory does not exist '/home/root/apps/myapp/releases/20170115200827'" 1>&2; false; fi
- DEBUG [eecdad1f] Finished in 0.013 seconds with exit status 0 (successful).
- DEBUG [1f820c67] Running /usr/local/rvm/bin/rvm default do bundle check --path /home/root/apps/myapp/shared/bundle on 192.168.8.38
- DEBUG [1f820c67] Command: cd /home/root/apps/myapp/releases/20170115200827 && /usr/local/rvm/bin/rvm default do bundle check --path /home/root/apps/myapp/shared/bundle
- DEBUG [1f820c67] 	[31mThe following gems are missing[0m
-[31m * net-ssh (4.0.1)[0m
-[31m * net-scp (1.2.1)[0m
-[31m * sshkit (1.11.5)[0m
-[31m * airbrussh (1.1.2)[0m
-[31m * capistrano-harrow (0.5.3)[0m
-[31m * i18n (0.7.0)[0m
-[31m * capistrano (3.7.1)[0m
-[31m * capistrano-bundler (1.2.0)[0m
-[31m * capistrano-rails (1.2.2)[0m
-[31m * capistrano-rvm (0.1.2)[0m
-[31m * puma (3.6.2)[0m
-[31m * capistrano3-puma (1.2.1)[0m
-[33mInstall missing gems with `bundle install`[0m
- DEBUG [1f820c67] Finished in 0.755 seconds with exit status 1 (failed).
-  INFO [c6d6da9b] Running /usr/local/rvm/bin/rvm default do bundle install --path /home/root/apps/myapp/shared/bundle --without development test --deployment --quiet on 192.168.8.38
- DEBUG [c6d6da9b] Command: cd /home/root/apps/myapp/releases/20170115200827 && /usr/local/rvm/bin/rvm default do bundle install --path /home/root/apps/myapp/shared/bundle --without development test --deployment --quiet
- DEBUG [c6d6da9b] 	[31mYour bundle is locked to puma (3.6.2), but that version could not be found in
-any of the sources listed in your Gemfile. If you haven't changed sources, that
-means the author of puma (3.6.2) has removed it. You'll need to update your
-bundle to a different version of puma (3.6.2) that hasn't been removed in order
-to install.[0m
-  INFO ---------------------------------------------------------------------------
-  INFO START 2017-01-15 20:13:09 +0000 cap production deploy:initial
-  INFO ---------------------------------------------------------------------------
- DEBUG [5f11dc75] Running [ -d ~/.rvm ] on 192.168.8.38
- DEBUG [5f11dc75] Command: [ -d ~/.rvm ]
-  INFO ---------------------------------------------------------------------------
-  INFO START 2017-01-15 20:14:34 +0000 cap production deploy:initial
-  INFO ---------------------------------------------------------------------------
- DEBUG [6aca33a7] Running [ -d ~/.rvm ] on 192.168.8.38
- DEBUG [6aca33a7] Command: [ -d ~/.rvm ]
- DEBUG [6aca33a7] Finished in 6.164 seconds with exit status 1 (failed).
- DEBUG [397cfbca] Running [ -d /usr/local/rvm ] on 192.168.8.38
- DEBUG [397cfbca] Command: [ -d /usr/local/rvm ]
- DEBUG [397cfbca] Finished in 1.973 seconds with exit status 0 (successful).
- DEBUG [53dab97d] Running /usr/local/rvm/bin/rvm version on 192.168.8.38
- DEBUG [53dab97d] Command: /usr/local/rvm/bin/rvm version
- DEBUG [53dab97d] 	rvm 1.28.0 (latest) by Wayne E. Seguin <wayneeseguin@gmail.com>, Michal Papis <mpapis@gmail.com> [https://rvm.io/]
- DEBUG [53dab97d] 	
- DEBUG [53dab97d] Finished in 2.171 seconds with exit status 0 (successful).
- DEBUG [c42fd9b0] Running /usr/local/rvm/bin/rvm current on 192.168.8.38
- DEBUG [c42fd9b0] Command: /usr/local/rvm/bin/rvm current
- DEBUG [c42fd9b0] 	ruby-2.2.5
- DEBUG [c42fd9b0] 	
- DEBUG [c42fd9b0] Finished in 2.745 seconds with exit status 0 (successful).
- DEBUG [f53638ed] Running /usr/local/rvm/bin/rvm default do ruby --version on 192.168.8.38
- DEBUG [f53638ed] Command: /usr/local/rvm/bin/rvm default do ruby --version
- DEBUG [f53638ed] 	ruby 2.2.5p319 (2016-04-26 revision 54774) [x86_64-linux]
- DEBUG [f53638ed] 	
- DEBUG [f53638ed] Finished in 0.339 seconds with exit status 0 (successful).
-  INFO [53e5c552] Running /usr/bin/env mkdir -p /tmp on 192.168.8.38
- DEBUG [53e5c552] Command: /usr/bin/env mkdir -p /tmp
-  INFO [53e5c552] Finished in 0.013 seconds with exit status 0 (successful).
- DEBUG Uploading /tmp/git-ssh-myapp-production-root.sh 0.0%
-  INFO Uploading /tmp/git-ssh-myapp-production-root.sh 100.0%
-  INFO [762068f8] Running /usr/bin/env chmod 700 /tmp/git-ssh-myapp-production-root.sh on 192.168.8.38
- DEBUG [762068f8] Command: /usr/bin/env chmod 700 /tmp/git-ssh-myapp-production-root.sh
-  INFO [762068f8] Finished in 0.008 seconds with exit status 0 (successful).
-  INFO [859b2c40] Running /usr/bin/env git ls-remote --heads https://github.com/crynus/myapp on 192.168.8.38
- DEBUG [859b2c40] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-root.sh" ; /usr/bin/env git ls-remote --heads https://github.com/crynus/myapp )
- DEBUG [859b2c40] 	a23ab4a310146cd5f0fb795f69f11027979b6b09
- DEBUG [859b2c40] 		
- DEBUG [859b2c40] 	refs/heads/master
- DEBUG [859b2c40] 	
-  INFO [859b2c40] Finished in 1.178 seconds with exit status 0 (successful).
-  INFO [eebc9c3d] Running /usr/bin/env mkdir -p /home/root/apps/myapp/shared /home/root/apps/myapp/releases on 192.168.8.38
- DEBUG [eebc9c3d] Command: /usr/bin/env mkdir -p /home/root/apps/myapp/shared /home/root/apps/myapp/releases
-  INFO [eebc9c3d] Finished in 0.016 seconds with exit status 0 (successful).
-  INFO [ae46a491] Running /usr/bin/env mkdir -p /home/root/apps/myapp/shared/public/assets on 192.168.8.38
- DEBUG [ae46a491] Command: /usr/bin/env mkdir -p /home/root/apps/myapp/shared/public/assets
-  INFO [ae46a491] Finished in 0.012 seconds with exit status 0 (successful).
- DEBUG [db12c9f1] Running [ -f /home/root/apps/myapp/shared/puma.rb ] on 192.168.8.38
- DEBUG [db12c9f1] Command: [ -f /home/root/apps/myapp/shared/puma.rb ]
- DEBUG [db12c9f1] Finished in 0.008 seconds with exit status 0 (successful).
- DEBUG [eaa45a11] Running [ -f /home/root/apps/myapp/current/REVISION ] on 192.168.8.38
- DEBUG [eaa45a11] Command: [ -f /home/root/apps/myapp/current/REVISION ]
- DEBUG [eaa45a11] Finished in 0.007 seconds with exit status 1 (failed).
- DEBUG [4c3cf1e5] Running [ -f /home/root/apps/myapp/repo/HEAD ] on 192.168.8.38
- DEBUG [4c3cf1e5] Command: [ -f /home/root/apps/myapp/repo/HEAD ]
- DEBUG [4c3cf1e5] Finished in 0.008 seconds with exit status 0 (successful).
-  INFO The repository mirror is at /home/root/apps/myapp/repo
- DEBUG [7a123826] Running if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi on 192.168.8.38
- DEBUG [7a123826] Command: if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi
- DEBUG [7a123826] Finished in 0.014 seconds with exit status 0 (successful).
-  INFO [f2ae1058] Running /usr/bin/env git remote update --prune on 192.168.8.38
- DEBUG [f2ae1058] Command: cd /home/root/apps/myapp/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-root.sh" ; /usr/bin/env git remote update --prune )
- DEBUG [f2ae1058] 	Fetching origin
- DEBUG [f2ae1058] 	
- DEBUG [f2ae1058] 	Error writing to authentication socket.
- DEBUG [f2ae1058] 	
-  INFO [f2ae1058] Finished in 2.344 seconds with exit status 0 (successful).
- DEBUG [1fbf0dfb] Running if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi on 192.168.8.38
- DEBUG [1fbf0dfb] Command: if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi
- DEBUG [1fbf0dfb] Finished in 0.010 seconds with exit status 0 (successful).
-  INFO [0e84ade0] Running /usr/bin/env mkdir -p /home/root/apps/myapp/releases/20170115201448 on 192.168.8.38
- DEBUG [0e84ade0] Command: cd /home/root/apps/myapp/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-root.sh" ; /usr/bin/env mkdir -p /home/root/apps/myapp/releases/20170115201448 )
-  INFO [0e84ade0] Finished in 0.014 seconds with exit status 0 (successful).
-  INFO [507c044f] Running /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /home/root/apps/myapp/releases/20170115201448 on 192.168.8.38
- DEBUG [507c044f] Command: cd /home/root/apps/myapp/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-root.sh" ; /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /home/root/apps/myapp/releases/20170115201448 )
-  INFO [507c044f] Finished in 0.018 seconds with exit status 0 (successful).
- DEBUG [7a1c94a1] Running if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi on 192.168.8.38
- DEBUG [7a1c94a1] Command: if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi
- DEBUG [7a1c94a1] Finished in 0.007 seconds with exit status 0 (successful).
- DEBUG [c8ba6c16] Running /usr/bin/env git rev-list --max-count=1 master on 192.168.8.38
- DEBUG [c8ba6c16] Command: cd /home/root/apps/myapp/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-root.sh" ; /usr/bin/env git rev-list --max-count=1 master )
- DEBUG [c8ba6c16] 	a23ab4a310146cd5f0fb795f69f11027979b6b09
- DEBUG [c8ba6c16] 	
- DEBUG [c8ba6c16] Finished in 0.013 seconds with exit status 0 (successful).
- DEBUG [8a7d0bc0] Running if test ! -d /home/root/apps/myapp/releases/20170115201448; then echo "Directory does not exist '/home/root/apps/myapp/releases/20170115201448'" 1>&2; false; fi on 192.168.8.38
- DEBUG [8a7d0bc0] Command: if test ! -d /home/root/apps/myapp/releases/20170115201448; then echo "Directory does not exist '/home/root/apps/myapp/releases/20170115201448'" 1>&2; false; fi
- DEBUG [8a7d0bc0] Finished in 0.010 seconds with exit status 0 (successful).
-  INFO [7c849e29] Running /usr/bin/env echo "a23ab4a310146cd5f0fb795f69f11027979b6b09" >> REVISION on 192.168.8.38
- DEBUG [7c849e29] Command: cd /home/root/apps/myapp/releases/20170115201448 && /usr/bin/env echo "a23ab4a310146cd5f0fb795f69f11027979b6b09" >> REVISION
-  INFO [7c849e29] Finished in 0.016 seconds with exit status 0 (successful).
-  INFO [c2a649fd] Running /usr/bin/env mkdir -p /home/root/apps/myapp/releases/20170115201448/public on 192.168.8.38
- DEBUG [c2a649fd] Command: /usr/bin/env mkdir -p /home/root/apps/myapp/releases/20170115201448/public
-  INFO [c2a649fd] Finished in 0.011 seconds with exit status 0 (successful).
- DEBUG [7ccc719e] Running [ -L /home/root/apps/myapp/releases/20170115201448/public/assets ] on 192.168.8.38
- DEBUG [7ccc719e] Command: [ -L /home/root/apps/myapp/releases/20170115201448/public/assets ]
- DEBUG [7ccc719e] Finished in 0.007 seconds with exit status 1 (failed).
- DEBUG [270d26c9] Running [ -d /home/root/apps/myapp/releases/20170115201448/public/assets ] on 192.168.8.38
- DEBUG [270d26c9] Command: [ -d /home/root/apps/myapp/releases/20170115201448/public/assets ]
- DEBUG [270d26c9] Finished in 0.010 seconds with exit status 1 (failed).
-  INFO [2427a143] Running /usr/bin/env ln -s /home/root/apps/myapp/shared/public/assets /home/root/apps/myapp/releases/20170115201448/public/assets on 192.168.8.38
- DEBUG [2427a143] Command: /usr/bin/env ln -s /home/root/apps/myapp/shared/public/assets /home/root/apps/myapp/releases/20170115201448/public/assets
-  INFO [2427a143] Finished in 0.011 seconds with exit status 0 (successful).
- DEBUG [7991430e] Running if test ! -d /home/root/apps/myapp/releases/20170115201448; then echo "Directory does not exist '/home/root/apps/myapp/releases/20170115201448'" 1>&2; false; fi on 192.168.8.38
- DEBUG [7991430e] Command: if test ! -d /home/root/apps/myapp/releases/20170115201448; then echo "Directory does not exist '/home/root/apps/myapp/releases/20170115201448'" 1>&2; false; fi
- DEBUG [7991430e] Finished in 0.013 seconds with exit status 0 (successful).
- DEBUG [adcbe8bc] Running /usr/local/rvm/bin/rvm default do bundle check --path /home/root/apps/myapp/shared/bundle on 192.168.8.38
- DEBUG [adcbe8bc] Command: cd /home/root/apps/myapp/releases/20170115201448 && /usr/local/rvm/bin/rvm default do bundle check --path /home/root/apps/myapp/shared/bundle
- DEBUG [adcbe8bc] 	[31mThe following gems are missing[0m
- DEBUG [adcbe8bc] 	
- DEBUG [adcbe8bc] 	[31m * net-ssh (4.0.1)[0m
- DEBUG [adcbe8bc] 	
- DEBUG [adcbe8bc] 	[31m * net-scp (1.2.1)[0m
- DEBUG [adcbe8bc] 	
- DEBUG [adcbe8bc] 	[31m * sshkit (1.11.5)[0m
- DEBUG [adcbe8bc] 	
- DEBUG [adcbe8bc] 	[31m * airbrussh (1.1.2)[0m
- DEBUG [adcbe8bc] 	
- DEBUG [adcbe8bc] 	[31m * capistrano-harrow (0.5.3)[0m
- DEBUG [adcbe8bc] 	
-[31m * i18n (0.7.0)[0m
-[31m * capistrano (3.7.1)[0m
-[31m * capistrano-bundler (1.2.0)[0m
-[31m * capistrano-rails (1.2.2)[0m
-[31m * capistrano-rvm (0.1.2)[0m
-[31m * puma (3.6.2)[0m
-[31m * capistrano3-puma (1.2.1)[0m
-[33mInstall missing gems with `bundle install`[0m
- DEBUG [adcbe8bc] Finished in 0.609 seconds with exit status 1 (failed).
-  INFO [8143066a] Running /usr/local/rvm/bin/rvm default do bundle install --path /home/root/apps/myapp/shared/bundle --without development test --deployment --quiet on 192.168.8.38
- DEBUG [8143066a] Command: cd /home/root/apps/myapp/releases/20170115201448 && /usr/local/rvm/bin/rvm default do bundle install --path /home/root/apps/myapp/shared/bundle --without development test --deployment --quiet
- DEBUG [8143066a] 	[31mYour bundle is locked to puma (3.6.2), but that version could not be found in
- DEBUG [8143066a] 	
- DEBUG [8143066a] 	any of the sources listed in your Gemfile. If you haven't changed sources, that
- DEBUG [8143066a] 	
- DEBUG [8143066a] 	means the author of puma (3.6.2) has removed it. You'll need to update your
- DEBUG [8143066a] 	
- DEBUG [8143066a] 	bundle to a different version of puma (3.6.2) that hasn't been removed in order
- DEBUG [8143066a] 	
- DEBUG [8143066a] 	to install.[0m
- DEBUG [8143066a] 	
-  INFO ---------------------------------------------------------------------------
-  INFO START 2017-01-15 20:16:37 +0000 cap production deploy:initial
-  INFO ---------------------------------------------------------------------------
- DEBUG [b76a4176] Running [ -d ~/.rvm ] on 192.168.8.38
- DEBUG [b76a4176] Command: [ -d ~/.rvm ]
- DEBUG [b76a4176] Finished in 3.295 seconds with exit status 1 (failed).
- DEBUG [c37c40dd] Running [ -d /usr/local/rvm ] on 192.168.8.38
- DEBUG [c37c40dd] Command: [ -d /usr/local/rvm ]
- DEBUG [c37c40dd] Finished in 2.085 seconds with exit status 0 (successful).
- DEBUG [a16ca10d] Running /usr/local/rvm/bin/rvm version on 192.168.8.38
- DEBUG [a16ca10d] Command: /usr/local/rvm/bin/rvm version
- DEBUG [a16ca10d] 	rvm 1.28.0 (latest) by Wayne E. Seguin <wayneeseguin@gmail.com>, Michal Papis <mpapis@gmail.com> [https://rvm.io/]
- DEBUG [a16ca10d] 	
- DEBUG [a16ca10d] Finished in 2.201 seconds with exit status 0 (successful).
- DEBUG [d1ea02a9] Running /usr/local/rvm/bin/rvm current on 192.168.8.38
- DEBUG [d1ea02a9] Command: /usr/local/rvm/bin/rvm current
- DEBUG [d1ea02a9] 	ruby-2.2.5
- DEBUG [d1ea02a9] Finished in 2.238 seconds with exit status 0 (successful).
- DEBUG [90a3abcb] Running /usr/local/rvm/bin/rvm default do ruby --version on 192.168.8.38
- DEBUG [90a3abcb] Command: /usr/local/rvm/bin/rvm default do ruby --version
- DEBUG [90a3abcb] 	ruby 2.2.5p319 (2016-04-26 revision 54774) [x86_64-linux]
- DEBUG [90a3abcb] 	
- DEBUG [90a3abcb] Finished in 0.307 seconds with exit status 0 (successful).
-  INFO [ad766f43] Running /usr/bin/env mkdir -p /tmp on 192.168.8.38
- DEBUG [ad766f43] Command: /usr/bin/env mkdir -p /tmp
-  INFO [ad766f43] Finished in 0.010 seconds with exit status 0 (successful).
- DEBUG Uploading /tmp/git-ssh-myapp-production-root.sh 0.0%
-  INFO Uploading /tmp/git-ssh-myapp-production-root.sh 100.0%
-  INFO [29f689a4] Running /usr/bin/env chmod 700 /tmp/git-ssh-myapp-production-root.sh on 192.168.8.38
- DEBUG [29f689a4] Command: /usr/bin/env chmod 700 /tmp/git-ssh-myapp-production-root.sh
-  INFO [29f689a4] Finished in 0.007 seconds with exit status 0 (successful).
-  INFO [e63a78a5] Running /usr/bin/env git ls-remote --heads https://github.com/crynus/myapp on 192.168.8.38
- DEBUG [e63a78a5] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-root.sh" ; /usr/bin/env git ls-remote --heads https://github.com/crynus/myapp )
- DEBUG [e63a78a5] 	a23ab4a310146cd5f0fb795f69f11027979b6b09
- DEBUG [e63a78a5] 		
- DEBUG [e63a78a5] 	refs/heads/master
- DEBUG [e63a78a5] 	
-  INFO [e63a78a5] Finished in 2.166 seconds with exit status 0 (successful).
-  INFO [b5a35966] Running /usr/bin/env mkdir -p /home/root/apps/myapp/shared /home/root/apps/myapp/releases on 192.168.8.38
- DEBUG [b5a35966] Command: /usr/bin/env mkdir -p /home/root/apps/myapp/shared /home/root/apps/myapp/releases
-  INFO [b5a35966] Finished in 0.010 seconds with exit status 0 (successful).
-  INFO [39469687] Running /usr/bin/env mkdir -p /home/root/apps/myapp/shared/public/assets on 192.168.8.38
- DEBUG [39469687] Command: /usr/bin/env mkdir -p /home/root/apps/myapp/shared/public/assets
-  INFO [39469687] Finished in 0.009 seconds with exit status 0 (successful).
- DEBUG [a6863002] Running [ -f /home/root/apps/myapp/shared/puma.rb ] on 192.168.8.38
- DEBUG [a6863002] Command: [ -f /home/root/apps/myapp/shared/puma.rb ]
- DEBUG [a6863002] Finished in 0.009 seconds with exit status 0 (successful).
- DEBUG [4b3c8b06] Running [ -f /home/root/apps/myapp/current/REVISION ] on 192.168.8.38
- DEBUG [4b3c8b06] Command: [ -f /home/root/apps/myapp/current/REVISION ]
- DEBUG [4b3c8b06] Finished in 0.008 seconds with exit status 1 (failed).
- DEBUG [07bbadd4] Running [ -f /home/root/apps/myapp/repo/HEAD ] on 192.168.8.38
- DEBUG [07bbadd4] Command: [ -f /home/root/apps/myapp/repo/HEAD ]
- DEBUG [07bbadd4] Finished in 0.006 seconds with exit status 0 (successful).
-  INFO The repository mirror is at /home/root/apps/myapp/repo
- DEBUG [e4eee34e] Running if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi on 192.168.8.38
- DEBUG [e4eee34e] Command: if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi
- DEBUG [e4eee34e] Finished in 0.008 seconds with exit status 0 (successful).
-  INFO [33839f0a] Running /usr/bin/env git remote update --prune on 192.168.8.38
- DEBUG [33839f0a] Command: cd /home/root/apps/myapp/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-root.sh" ; /usr/bin/env git remote update --prune )
- DEBUG [33839f0a] 	Fetching origin
- DEBUG [33839f0a] 	
- DEBUG [33839f0a] 	Error reading response length from authentication socket.
-  INFO [33839f0a] Finished in 3.675 seconds with exit status 0 (successful).
- DEBUG [855d6b7b] Running if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi on 192.168.8.38
- DEBUG [855d6b7b] Command: if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi
- DEBUG [855d6b7b] Finished in 0.008 seconds with exit status 0 (successful).
-  INFO [7a1f52c0] Running /usr/bin/env mkdir -p /home/root/apps/myapp/releases/20170115201649 on 192.168.8.38
- DEBUG [7a1f52c0] Command: cd /home/root/apps/myapp/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-root.sh" ; /usr/bin/env mkdir -p /home/root/apps/myapp/releases/20170115201649 )
-  INFO [7a1f52c0] Finished in 0.014 seconds with exit status 0 (successful).
-  INFO [49ecded5] Running /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /home/root/apps/myapp/releases/20170115201649 on 192.168.8.38
- DEBUG [49ecded5] Command: cd /home/root/apps/myapp/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-root.sh" ; /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /home/root/apps/myapp/releases/20170115201649 )
-  INFO [49ecded5] Finished in 0.020 seconds with exit status 0 (successful).
- DEBUG [864770c4] Running if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi on 192.168.8.38
- DEBUG [864770c4] Command: if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi
- DEBUG [864770c4] Finished in 0.009 seconds with exit status 0 (successful).
- DEBUG [caee6a3f] Running /usr/bin/env git rev-list --max-count=1 master on 192.168.8.38
- DEBUG [caee6a3f] Command: cd /home/root/apps/myapp/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-root.sh" ; /usr/bin/env git rev-list --max-count=1 master )
- DEBUG [caee6a3f] 	a23ab4a310146cd5f0fb795f69f11027979b6b09
- DEBUG [caee6a3f] Finished in 0.014 seconds with exit status 0 (successful).
- DEBUG [9725e383] Running if test ! -d /home/root/apps/myapp/releases/20170115201649; then echo "Directory does not exist '/home/root/apps/myapp/releases/20170115201649'" 1>&2; false; fi on 192.168.8.38
- DEBUG [9725e383] Command: if test ! -d /home/root/apps/myapp/releases/20170115201649; then echo "Directory does not exist '/home/root/apps/myapp/releases/20170115201649'" 1>&2; false; fi
- DEBUG [9725e383] Finished in 0.009 seconds with exit status 0 (successful).
-  INFO [4dda1faa] Running /usr/bin/env echo "a23ab4a310146cd5f0fb795f69f11027979b6b09" >> REVISION on 192.168.8.38
- DEBUG [4dda1faa] Command: cd /home/root/apps/myapp/releases/20170115201649 && /usr/bin/env echo "a23ab4a310146cd5f0fb795f69f11027979b6b09" >> REVISION
-  INFO [4dda1faa] Finished in 0.022 seconds with exit status 0 (successful).
-  INFO [258b88ef] Running /usr/bin/env mkdir -p /home/root/apps/myapp/releases/20170115201649/public on 192.168.8.38
- DEBUG [258b88ef] Command: /usr/bin/env mkdir -p /home/root/apps/myapp/releases/20170115201649/public
-  INFO [258b88ef] Finished in 0.009 seconds with exit status 0 (successful).
- DEBUG [27cb8a14] Running [ -L /home/root/apps/myapp/releases/20170115201649/public/assets ] on 192.168.8.38
- DEBUG [27cb8a14] Command: [ -L /home/root/apps/myapp/releases/20170115201649/public/assets ]
- DEBUG [27cb8a14] Finished in 0.011 seconds with exit status 1 (failed).
- DEBUG [cef2e666] Running [ -d /home/root/apps/myapp/releases/20170115201649/public/assets ] on 192.168.8.38
- DEBUG [cef2e666] Command: [ -d /home/root/apps/myapp/releases/20170115201649/public/assets ]
- DEBUG [cef2e666] Finished in 0.008 seconds with exit status 1 (failed).
-  INFO [5fbddbf3] Running /usr/bin/env ln -s /home/root/apps/myapp/shared/public/assets /home/root/apps/myapp/releases/20170115201649/public/assets on 192.168.8.38
- DEBUG [5fbddbf3] Command: /usr/bin/env ln -s /home/root/apps/myapp/shared/public/assets /home/root/apps/myapp/releases/20170115201649/public/assets
-  INFO [5fbddbf3] Finished in 0.014 seconds with exit status 0 (successful).
- DEBUG [987cac21] Running if test ! -d /home/root/apps/myapp/releases/20170115201649; then echo "Directory does not exist '/home/root/apps/myapp/releases/20170115201649'" 1>&2; false; fi on 192.168.8.38
- DEBUG [987cac21] Command: if test ! -d /home/root/apps/myapp/releases/20170115201649; then echo "Directory does not exist '/home/root/apps/myapp/releases/20170115201649'" 1>&2; false; fi
- DEBUG [987cac21] Finished in 0.011 seconds with exit status 0 (successful).
- DEBUG [83423606] Running /usr/local/rvm/bin/rvm default do bundle check --path /home/root/apps/myapp/shared/bundle on 192.168.8.38
- DEBUG [83423606] Command: cd /home/root/apps/myapp/releases/20170115201649 && /usr/local/rvm/bin/rvm default do bundle check --path /home/root/apps/myapp/shared/bundle
- DEBUG [83423606] 	[31mThe following gems are missing[0m
-[31m * net-ssh (4.0.1)[0m
-[31m * net-scp (1.2.1)[0m
-[31m * sshkit (1.11.5)[0m
-[31m * airbrussh (1.1.2)[0m
-[31m * capistrano-harrow (0.5.3)[0m
-[31m * i18n (0.7.0)[0m
-[31m * capistrano (3.7.1)[0m
-[31m * capistrano-bundler (1.2.0)[0m
-[31m * capistrano-rails (1.2.2)[0m
-[31m * capistrano-rvm (0.1.2)[0m
-[31m * puma (3.6.2)[0m
-[31m * capistrano3-puma (1.2.1)[0m
-[33mInstall missing gems with `bundle install`[0m
- DEBUG [83423606] Finished in 0.581 seconds with exit status 1 (failed).
-  INFO [ac75ef23] Running /usr/local/rvm/bin/rvm default do bundle install --path /home/root/apps/myapp/shared/bundle --without development test --deployment --quiet on 192.168.8.38
- DEBUG [ac75ef23] Command: cd /home/root/apps/myapp/releases/20170115201649 && /usr/local/rvm/bin/rvm default do bundle install --path /home/root/apps/myapp/shared/bundle --without development test --deployment --quiet
- DEBUG [ac75ef23] 	[31mYour bundle is locked to puma (3.6.2), but that version could not be found in
- DEBUG [ac75ef23] 	
- DEBUG [ac75ef23] 	any of the sources listed in your Gemfile. If you haven't changed sources, that
- DEBUG [ac75ef23] 	
- DEBUG [ac75ef23] 	means the author of puma (3.6.2) has removed it. You'll need to update your
- DEBUG [ac75ef23] 	
- DEBUG [ac75ef23] 	bundle to a different version of puma (3.6.2) that hasn't been removed in order
- DEBUG [ac75ef23] 	
- DEBUG [ac75ef23] 	to install.[0m
- DEBUG [ac75ef23] 	
-  INFO ---------------------------------------------------------------------------
-  INFO START 2017-01-15 20:17:23 +0000 cap production deploy:initial
-  INFO ---------------------------------------------------------------------------
- DEBUG [df5aa601] Running [ -d ~/.rvm ] on 192.168.8.38
- DEBUG [df5aa601] Command: [ -d ~/.rvm ]
- DEBUG [df5aa601] Finished in 2.583 seconds with exit status 1 (failed).
- DEBUG [b1a18258] Running [ -d /usr/local/rvm ] on 192.168.8.38
- DEBUG [b1a18258] Command: [ -d /usr/local/rvm ]
- DEBUG [b1a18258] Finished in 1.904 seconds with exit status 0 (successful).
- DEBUG [89dbde6c] Running /usr/local/rvm/bin/rvm version on 192.168.8.38
- DEBUG [89dbde6c] Command: /usr/local/rvm/bin/rvm version
- DEBUG [89dbde6c] 	rvm 1.28.0 (latest) by Wayne E. Seguin <wayneeseguin@gmail.com>, Michal Papis <mpapis@gmail.com> [https://rvm.io/]
- DEBUG [89dbde6c] 	
- DEBUG [89dbde6c] Finished in 2.239 seconds with exit status 0 (successful).
- DEBUG [cf926219] Running /usr/local/rvm/bin/rvm current on 192.168.8.38
- DEBUG [cf926219] Command: /usr/local/rvm/bin/rvm current
- DEBUG [cf926219] 	ruby-2.2.5
- DEBUG [cf926219] 	
- DEBUG [cf926219] Finished in 3.236 seconds with exit status 0 (successful).
- DEBUG [e67eeca1] Running /usr/local/rvm/bin/rvm default do ruby --version on 192.168.8.38
- DEBUG [e67eeca1] Command: /usr/local/rvm/bin/rvm default do ruby --version
- DEBUG [e67eeca1] 	ruby 2.2.5p319 (2016-04-26 revision 54774) [x86_64-linux]
- DEBUG [e67eeca1] 	
- DEBUG [e67eeca1] Finished in 0.319 seconds with exit status 0 (successful).
-  INFO [a4b817a7] Running /usr/bin/env mkdir -p /tmp on 192.168.8.38
- DEBUG [a4b817a7] Command: /usr/bin/env mkdir -p /tmp
-  INFO [a4b817a7] Finished in 0.012 seconds with exit status 0 (successful).
- DEBUG Uploading /tmp/git-ssh-myapp-production-root.sh 0.0%
-  INFO Uploading /tmp/git-ssh-myapp-production-root.sh 100.0%
-  INFO [378757dd] Running /usr/bin/env chmod 700 /tmp/git-ssh-myapp-production-root.sh on 192.168.8.38
- DEBUG [378757dd] Command: /usr/bin/env chmod 700 /tmp/git-ssh-myapp-production-root.sh
-  INFO [378757dd] Finished in 0.017 seconds with exit status 0 (successful).
-  INFO [205477f4] Running /usr/bin/env git ls-remote --heads https://github.com/crynus/myapp on 192.168.8.38
- DEBUG [205477f4] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-root.sh" ; /usr/bin/env git ls-remote --heads https://github.com/crynus/myapp )
- DEBUG [205477f4] 	a23ab4a310146cd5f0fb795f69f11027979b6b09
- DEBUG [205477f4] 		
- DEBUG [205477f4] 	refs/heads/master
- DEBUG [205477f4] 	
-  INFO [205477f4] Finished in 6.573 seconds with exit status 0 (successful).
-  INFO [12d24d45] Running /usr/bin/env mkdir -p /home/root/apps/myapp/shared /home/root/apps/myapp/releases on 192.168.8.38
- DEBUG [12d24d45] Command: /usr/bin/env mkdir -p /home/root/apps/myapp/shared /home/root/apps/myapp/releases
-  INFO [12d24d45] Finished in 0.013 seconds with exit status 0 (successful).
-  INFO [0799119d] Running /usr/bin/env mkdir -p /home/root/apps/myapp/shared/public/assets on 192.168.8.38
- DEBUG [0799119d] Command: /usr/bin/env mkdir -p /home/root/apps/myapp/shared/public/assets
-  INFO [0799119d] Finished in 0.014 seconds with exit status 0 (successful).
- DEBUG [46afa803] Running [ -f /home/root/apps/myapp/shared/puma.rb ] on 192.168.8.38
- DEBUG [46afa803] Command: [ -f /home/root/apps/myapp/shared/puma.rb ]
- DEBUG [46afa803] Finished in 0.008 seconds with exit status 0 (successful).
- DEBUG [c34ef3a7] Running [ -f /home/root/apps/myapp/current/REVISION ] on 192.168.8.38
- DEBUG [c34ef3a7] Command: [ -f /home/root/apps/myapp/current/REVISION ]
- DEBUG [c34ef3a7] Finished in 0.008 seconds with exit status 1 (failed).
- DEBUG [2174bd91] Running [ -f /home/root/apps/myapp/repo/HEAD ] on 192.168.8.38
- DEBUG [2174bd91] Command: [ -f /home/root/apps/myapp/repo/HEAD ]
- DEBUG [2174bd91] Finished in 0.013 seconds with exit status 0 (successful).
-  INFO The repository mirror is at /home/root/apps/myapp/repo
- DEBUG [d1c9ac43] Running if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi on 192.168.8.38
- DEBUG [d1c9ac43] Command: if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi
- DEBUG [d1c9ac43] Finished in 0.012 seconds with exit status 0 (successful).
-  INFO [7841057c] Running /usr/bin/env git remote update --prune on 192.168.8.38
- DEBUG [7841057c] Command: cd /home/root/apps/myapp/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-root.sh" ; /usr/bin/env git remote update --prune )
- DEBUG [7841057c] 	Fetching origin
- DEBUG [7841057c] 	Error writing to authentication socket.
- DEBUG [7841057c] 	
-  INFO [7841057c] Finished in 5.431 seconds with exit status 0 (successful).
- DEBUG [89c1eb4b] Running if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi on 192.168.8.38
- DEBUG [89c1eb4b] Command: if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi
- DEBUG [89c1eb4b] Finished in 0.014 seconds with exit status 0 (successful).
-  INFO [2c870719] Running /usr/bin/env mkdir -p /home/root/apps/myapp/releases/20170115201740 on 192.168.8.38
- DEBUG [2c870719] Command: cd /home/root/apps/myapp/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-root.sh" ; /usr/bin/env mkdir -p /home/root/apps/myapp/releases/20170115201740 )
-  INFO [2c870719] Finished in 0.013 seconds with exit status 0 (successful).
-  INFO [21acf865] Running /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /home/root/apps/myapp/releases/20170115201740 on 192.168.8.38
- DEBUG [21acf865] Command: cd /home/root/apps/myapp/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-root.sh" ; /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /home/root/apps/myapp/releases/20170115201740 )
-  INFO [21acf865] Finished in 0.013 seconds with exit status 0 (successful).
- DEBUG [77706b51] Running if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi on 192.168.8.38
- DEBUG [77706b51] Command: if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi
- DEBUG [77706b51] Finished in 0.009 seconds with exit status 0 (successful).
- DEBUG [d91b6127] Running /usr/bin/env git rev-list --max-count=1 master on 192.168.8.38
- DEBUG [d91b6127] Command: cd /home/root/apps/myapp/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-root.sh" ; /usr/bin/env git rev-list --max-count=1 master )
- DEBUG [d91b6127] 	a23ab4a310146cd5f0fb795f69f11027979b6b09
- DEBUG [d91b6127] Finished in 0.009 seconds with exit status 0 (successful).
- DEBUG [adeebe20] Running if test ! -d /home/root/apps/myapp/releases/20170115201740; then echo "Directory does not exist '/home/root/apps/myapp/releases/20170115201740'" 1>&2; false; fi on 192.168.8.38
- DEBUG [adeebe20] Command: if test ! -d /home/root/apps/myapp/releases/20170115201740; then echo "Directory does not exist '/home/root/apps/myapp/releases/20170115201740'" 1>&2; false; fi
- DEBUG [adeebe20] Finished in 0.007 seconds with exit status 0 (successful).
-  INFO [7c474b2c] Running /usr/bin/env echo "a23ab4a310146cd5f0fb795f69f11027979b6b09" >> REVISION on 192.168.8.38
- DEBUG [7c474b2c] Command: cd /home/root/apps/myapp/releases/20170115201740 && /usr/bin/env echo "a23ab4a310146cd5f0fb795f69f11027979b6b09" >> REVISION
-  INFO [7c474b2c] Finished in 0.011 seconds with exit status 0 (successful).
-  INFO [87f93cab] Running /usr/bin/env mkdir -p /home/root/apps/myapp/releases/20170115201740/public on 192.168.8.38
- DEBUG [87f93cab] Command: /usr/bin/env mkdir -p /home/root/apps/myapp/releases/20170115201740/public
-  INFO [87f93cab] Finished in 0.014 seconds with exit status 0 (successful).
- DEBUG [c549de33] Running [ -L /home/root/apps/myapp/releases/20170115201740/public/assets ] on 192.168.8.38
- DEBUG [c549de33] Command: [ -L /home/root/apps/myapp/releases/20170115201740/public/assets ]
- DEBUG [c549de33] Finished in 0.010 seconds with exit status 1 (failed).
- DEBUG [63f54e11] Running [ -d /home/root/apps/myapp/releases/20170115201740/public/assets ] on 192.168.8.38
- DEBUG [63f54e11] Command: [ -d /home/root/apps/myapp/releases/20170115201740/public/assets ]
- DEBUG [63f54e11] Finished in 0.007 seconds with exit status 1 (failed).
-  INFO [79ae6ecb] Running /usr/bin/env ln -s /home/root/apps/myapp/shared/public/assets /home/root/apps/myapp/releases/20170115201740/public/assets on 192.168.8.38
- DEBUG [79ae6ecb] Command: /usr/bin/env ln -s /home/root/apps/myapp/shared/public/assets /home/root/apps/myapp/releases/20170115201740/public/assets
-  INFO [79ae6ecb] Finished in 0.009 seconds with exit status 0 (successful).
- DEBUG [5d0f8528] Running if test ! -d /home/root/apps/myapp/releases/20170115201740; then echo "Directory does not exist '/home/root/apps/myapp/releases/20170115201740'" 1>&2; false; fi on 192.168.8.38
- DEBUG [5d0f8528] Command: if test ! -d /home/root/apps/myapp/releases/20170115201740; then echo "Directory does not exist '/home/root/apps/myapp/releases/20170115201740'" 1>&2; false; fi
- DEBUG [5d0f8528] Finished in 0.008 seconds with exit status 0 (successful).
- DEBUG [fc8e7a01] Running /usr/local/rvm/bin/rvm default do bundle check --path /home/root/apps/myapp/shared/bundle on 192.168.8.38
- DEBUG [fc8e7a01] Command: cd /home/root/apps/myapp/releases/20170115201740 && /usr/local/rvm/bin/rvm default do bundle check --path /home/root/apps/myapp/shared/bundle
- DEBUG [fc8e7a01] 	[31mThe following gems are missing[0m
-[31m * net-ssh (4.0.1)[0m
-[31m * net-scp (1.2.1)[0m
-[31m * sshkit (1.11.5)[0m
-[31m * airbrussh (1.1.2)[0m
-[31m * capistrano-harrow (0.5.3)[0m
-[31m * i18n (0.7.0)[0m
-[31m * capistrano (3.7.1)[0m
-[31m * capistrano-bundler (1.2.0)[0m
-[31m * capistrano-rails (1.2.2)[0m
-[31m * capistrano-rvm (0.1.2)[0m
-[31m * puma (3.6.2)[0m
-[31m * capistrano3-puma (1.2.1)[0m
-[33mInstall missing gems with `bundle install`[0m
- DEBUG [fc8e7a01] Finished in 0.543 seconds with exit status 1 (failed).
-  INFO [e0719827] Running /usr/local/rvm/bin/rvm default do bundle install --path /home/root/apps/myapp/shared/bundle --without development test --deployment --quiet on 192.168.8.38
- DEBUG [e0719827] Command: cd /home/root/apps/myapp/releases/20170115201740 && /usr/local/rvm/bin/rvm default do bundle install --path /home/root/apps/myapp/shared/bundle --without development test --deployment --quiet
- DEBUG [e0719827] 	[31mYour bundle is locked to puma (3.6.2), but that version could not be found in
- DEBUG [e0719827] 	
- DEBUG [e0719827] 	any of the sources listed in your Gemfile. If you haven't changed sources, that
- DEBUG [e0719827] 	
- DEBUG [e0719827] 	means the author of puma (3.6.2) has removed it. You'll need to update your
- DEBUG [e0719827] 	
- DEBUG [e0719827] 	bundle to a different version of puma (3.6.2) that hasn't been removed in order
- DEBUG [e0719827] 	
- DEBUG [e0719827] 	to install.[0m
- DEBUG [e0719827] 	
-  INFO ---------------------------------------------------------------------------
-  INFO START 2017-01-15 21:16:00 +0000 cap production deploy:initial
-  INFO ---------------------------------------------------------------------------
- DEBUG [821a20b8] Running [ -d ~/.rvm ] on 192.168.8.38
- DEBUG [821a20b8] Command: [ -d ~/.rvm ]
- DEBUG [821a20b8] Finished in 13.791 seconds with exit status 1 (failed).
- DEBUG [5a1ef67c] Running [ -d /usr/local/rvm ] on 192.168.8.38
- DEBUG [5a1ef67c] Command: [ -d /usr/local/rvm ]
- DEBUG [5a1ef67c] Finished in 2.491 seconds with exit status 0 (successful).
- DEBUG [f649c7fe] Running /usr/local/rvm/bin/rvm version on 192.168.8.38
- DEBUG [f649c7fe] Command: /usr/local/rvm/bin/rvm version
- DEBUG [f649c7fe] 	rvm 1.28.0 (latest) by Wayne E. Seguin <wayneeseguin@gmail.com>, Michal Papis <mpapis@gmail.com> [https://rvm.io/]
- DEBUG [f649c7fe] 	
- DEBUG [f649c7fe] Finished in 2.631 seconds with exit status 0 (successful).
- DEBUG [2abf7c93] Running /usr/local/rvm/bin/rvm current on 192.168.8.38
- DEBUG [2abf7c93] Command: /usr/local/rvm/bin/rvm current
- DEBUG [2abf7c93] 	ruby-2.2.5
- DEBUG [2abf7c93] Finished in 3.832 seconds with exit status 0 (successful).
- DEBUG [55cab422] Running /usr/local/rvm/bin/rvm default do ruby --version on 192.168.8.38
- DEBUG [55cab422] Command: /usr/local/rvm/bin/rvm default do ruby --version
- DEBUG [55cab422] 	ruby 2.2.5p319 (2016-04-26 revision 54774) [x86_64-linux]
- DEBUG [55cab422] 	
- DEBUG [55cab422] Finished in 0.326 seconds with exit status 0 (successful).
-  INFO [74cd9c39] Running /usr/bin/env mkdir -p /tmp on 192.168.8.38
- DEBUG [74cd9c39] Command: /usr/bin/env mkdir -p /tmp
-  INFO [74cd9c39] Finished in 0.012 seconds with exit status 0 (successful).
- DEBUG Uploading /tmp/git-ssh-myapp-production-root.sh 0.0%
-  INFO Uploading /tmp/git-ssh-myapp-production-root.sh 100.0%
-  INFO [20febf5d] Running /usr/bin/env chmod 700 /tmp/git-ssh-myapp-production-root.sh on 192.168.8.38
- DEBUG [20febf5d] Command: /usr/bin/env chmod 700 /tmp/git-ssh-myapp-production-root.sh
-  INFO [20febf5d] Finished in 0.010 seconds with exit status 0 (successful).
-  INFO [a8ee6acf] Running /usr/bin/env git ls-remote --heads https://github.com/crynus/myapp on 192.168.8.38
- DEBUG [a8ee6acf] Command: ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-root.sh" ; /usr/bin/env git ls-remote --heads https://github.com/crynus/myapp )
- DEBUG [a8ee6acf] 	a23ab4a310146cd5f0fb795f69f11027979b6b09
- DEBUG [a8ee6acf] 		
- DEBUG [a8ee6acf] 	refs/heads/master
- DEBUG [a8ee6acf] 	
-  INFO [a8ee6acf] Finished in 0.953 seconds with exit status 0 (successful).
-  INFO [1da09fb0] Running /usr/bin/env mkdir -p /home/root/apps/myapp/shared /home/root/apps/myapp/releases on 192.168.8.38
- DEBUG [1da09fb0] Command: /usr/bin/env mkdir -p /home/root/apps/myapp/shared /home/root/apps/myapp/releases
-  INFO [1da09fb0] Finished in 0.021 seconds with exit status 0 (successful).
-  INFO [1111c70e] Running /usr/bin/env mkdir -p /home/root/apps/myapp/shared/public/assets on 192.168.8.38
- DEBUG [1111c70e] Command: /usr/bin/env mkdir -p /home/root/apps/myapp/shared/public/assets
-  INFO [1111c70e] Finished in 0.014 seconds with exit status 0 (successful).
- DEBUG [a02511e5] Running [ -f /home/root/apps/myapp/shared/puma.rb ] on 192.168.8.38
- DEBUG [a02511e5] Command: [ -f /home/root/apps/myapp/shared/puma.rb ]
- DEBUG [a02511e5] Finished in 0.008 seconds with exit status 0 (successful).
- DEBUG [eaf91b50] Running [ -f /home/root/apps/myapp/current/REVISION ] on 192.168.8.38
- DEBUG [eaf91b50] Command: [ -f /home/root/apps/myapp/current/REVISION ]
- DEBUG [eaf91b50] Finished in 0.014 seconds with exit status 1 (failed).
- DEBUG [9c0c148d] Running [ -f /home/root/apps/myapp/repo/HEAD ] on 192.168.8.38
- DEBUG [9c0c148d] Command: [ -f /home/root/apps/myapp/repo/HEAD ]
- DEBUG [9c0c148d] Finished in 0.008 seconds with exit status 0 (successful).
-  INFO The repository mirror is at /home/root/apps/myapp/repo
- DEBUG [533d510c] Running if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi on 192.168.8.38
- DEBUG [533d510c] Command: if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi
- DEBUG [533d510c] Finished in 0.014 seconds with exit status 0 (successful).
-  INFO [d0528279] Running /usr/bin/env git remote update --prune on 192.168.8.38
- DEBUG [d0528279] Command: cd /home/root/apps/myapp/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-root.sh" ; /usr/bin/env git remote update --prune )
- DEBUG [d0528279] 	Fetching origin
- DEBUG [d0528279] 	
- DEBUG [d0528279] 	Error writing to authentication socket.
- DEBUG [d0528279] 	
-  INFO [d0528279] Finished in 1.874 seconds with exit status 0 (successful).
- DEBUG [c70acc14] Running if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi on 192.168.8.38
- DEBUG [c70acc14] Command: if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi
- DEBUG [c70acc14] Finished in 0.010 seconds with exit status 0 (successful).
-  INFO [b2b0d8a6] Running /usr/bin/env mkdir -p /home/root/apps/myapp/releases/20170115211625 on 192.168.8.38
- DEBUG [b2b0d8a6] Command: cd /home/root/apps/myapp/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-root.sh" ; /usr/bin/env mkdir -p /home/root/apps/myapp/releases/20170115211625 )
-  INFO [b2b0d8a6] Finished in 0.021 seconds with exit status 0 (successful).
-  INFO [fbfb800d] Running /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /home/root/apps/myapp/releases/20170115211625 on 192.168.8.38
- DEBUG [fbfb800d] Command: cd /home/root/apps/myapp/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-root.sh" ; /usr/bin/env git archive master | /usr/bin/env tar -x -f - -C /home/root/apps/myapp/releases/20170115211625 )
-  INFO [fbfb800d] Finished in 0.014 seconds with exit status 0 (successful).
- DEBUG [7a28d301] Running if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi on 192.168.8.38
- DEBUG [7a28d301] Command: if test ! -d /home/root/apps/myapp/repo; then echo "Directory does not exist '/home/root/apps/myapp/repo'" 1>&2; false; fi
- DEBUG [7a28d301] Finished in 0.008 seconds with exit status 0 (successful).
- DEBUG [b11edc68] Running /usr/bin/env git rev-list --max-count=1 master on 192.168.8.38
- DEBUG [b11edc68] Command: cd /home/root/apps/myapp/repo && ( export GIT_ASKPASS="/bin/echo" GIT_SSH="/tmp/git-ssh-myapp-production-root.sh" ; /usr/bin/env git rev-list --max-count=1 master )
- DEBUG [b11edc68] 	a23ab4a310146cd5f0fb795f69f11027979b6b09
- DEBUG [b11edc68] 	
- DEBUG [b11edc68] Finished in 0.013 seconds with exit status 0 (successful).
- DEBUG [ed8b32ea] Running if test ! -d /home/root/apps/myapp/releases/20170115211625; then echo "Directory does not exist '/home/root/apps/myapp/releases/20170115211625'" 1>&2; false; fi on 192.168.8.38
- DEBUG [ed8b32ea] Command: if test ! -d /home/root/apps/myapp/releases/20170115211625; then echo "Directory does not exist '/home/root/apps/myapp/releases/20170115211625'" 1>&2; false; fi
- DEBUG [ed8b32ea] Finished in 0.008 seconds with exit status 0 (successful).
-  INFO [e449f36a] Running /usr/bin/env echo "a23ab4a310146cd5f0fb795f69f11027979b6b09" >> REVISION on 192.168.8.38
- DEBUG [e449f36a] Command: cd /home/root/apps/myapp/releases/20170115211625 && /usr/bin/env echo "a23ab4a310146cd5f0fb795f69f11027979b6b09" >> REVISION
-  INFO [e449f36a] Finished in 0.013 seconds with exit status 0 (successful).
-  INFO [08d6fffa] Running /usr/bin/env mkdir -p /home/root/apps/myapp/releases/20170115211625/public on 192.168.8.38
- DEBUG [08d6fffa] Command: /usr/bin/env mkdir -p /home/root/apps/myapp/releases/20170115211625/public
-  INFO [08d6fffa] Finished in 0.017 seconds with exit status 0 (successful).
- DEBUG [9e9b83b2] Running [ -L /home/root/apps/myapp/releases/20170115211625/public/assets ] on 192.168.8.38
- DEBUG [9e9b83b2] Command: [ -L /home/root/apps/myapp/releases/20170115211625/public/assets ]
- DEBUG [9e9b83b2] Finished in 0.014 seconds with exit status 1 (failed).
- DEBUG [9677bda8] Running [ -d /home/root/apps/myapp/releases/20170115211625/public/assets ] on 192.168.8.38
- DEBUG [9677bda8] Command: [ -d /home/root/apps/myapp/releases/20170115211625/public/assets ]
- DEBUG [9677bda8] Finished in 0.011 seconds with exit status 1 (failed).
-  INFO [3381710d] Running /usr/bin/env ln -s /home/root/apps/myapp/shared/public/assets /home/root/apps/myapp/releases/20170115211625/public/assets on 192.168.8.38
- DEBUG [3381710d] Command: /usr/bin/env ln -s /home/root/apps/myapp/shared/public/assets /home/root/apps/myapp/releases/20170115211625/public/assets
-  INFO [3381710d] Finished in 0.009 seconds with exit status 0 (successful).
- DEBUG [7178740c] Running if test ! -d /home/root/apps/myapp/releases/20170115211625; then echo "Directory does not exist '/home/root/apps/myapp/releases/20170115211625'" 1>&2; false; fi on 192.168.8.38
- DEBUG [7178740c] Command: if test ! -d /home/root/apps/myapp/releases/20170115211625; then echo "Directory does not exist '/home/root/apps/myapp/releases/20170115211625'" 1>&2; false; fi
- DEBUG [7178740c] Finished in 0.010 seconds with exit status 0 (successful).
- DEBUG [60c71280] Running /usr/local/rvm/bin/rvm default do bundle check --path /home/root/apps/myapp/shared/bundle on 192.168.8.38
- DEBUG [60c71280] Command: cd /home/root/apps/myapp/releases/20170115211625 && /usr/local/rvm/bin/rvm default do bundle check --path /home/root/apps/myapp/shared/bundle
- DEBUG [60c71280] 	[31mThe following gems are missing[0m
-[31m * net-ssh (4.0.1)[0m
-[31m * net-scp (1.2.1)[0m
-[31m * sshkit (1.11.5)[0m
-[31m * airbrussh (1.1.2)[0m
-[31m * capistrano-harrow (0.5.3)[0m
-[31m * i18n (0.7.0)[0m
-[31m * capistrano (3.7.1)[0m
-[31m * capistrano-bundler (1.2.0)[0m
-[31m * capistrano-rails (1.2.2)[0m
-[31m * capistrano-rvm (0.1.2)[0m
-[31m * puma (3.6.2)[0m
-[31m * capistrano3-puma (1.2.1)[0m
-[33mInstall missing gems with `bundle install`[0m
- DEBUG [60c71280] Finished in 0.575 seconds with exit status 1 (failed).
-  INFO [22a3fe7f] Running /usr/local/rvm/bin/rvm default do bundle install --path /home/root/apps/myapp/shared/bundle --without development test --deployment --quiet on 192.168.8.38
- DEBUG [22a3fe7f] Command: cd /home/root/apps/myapp/releases/20170115211625 && /usr/local/rvm/bin/rvm default do bundle install --path /home/root/apps/myapp/shared/bundle --without development test --deployment --quiet
- DEBUG [22a3fe7f] 	[31mYour bundle is locked to puma (3.6.2), but that version could not be found in
- DEBUG [22a3fe7f] 	
- DEBUG [22a3fe7f] 	any of the sources listed in your Gemfile. If you haven't changed sources, that
- DEBUG [22a3fe7f] 	
- DEBUG [22a3fe7f] 	means the author of puma (3.6.2) has removed it. You'll need to update your
- DEBUG [22a3fe7f] 	
- DEBUG [22a3fe7f] 	bundle to a different version of puma (3.6.2) that hasn't been removed in order
- DEBUG [22a3fe7f] 	
- DEBUG [22a3fe7f] 	to install.[0m
- DEBUG [22a3fe7f] 	
+ DEBUG [9fc239e7] Finished in 0.533 seconds with exit status 1 (failed).
+  INFO [890b1b1f] Running /usr/local/rvm/bin/rvm default do bundle install --path /home/root/apps/myapp/shared/bundle --without development test --deployment --quiet on 192.168.8.38
+ DEBUG [890b1b1f] Command: cd /home/root/apps/myapp/releases/20170115214445 && /usr/local/rvm/bin/rvm default do bundle install --path /home/root/apps/myapp/shared/bundle --without development test --deployment --quiet
+  INFO [890b1b1f] Finished in 1.487 seconds with exit status 0 (successful).
+ DEBUG [cd941ff2] Running if test ! -d /home/root/apps/myapp/releases/20170115214445; then echo "Directory does not exist '/home/root/apps/myapp/releases/20170115214445'" 1>&2; false; fi on 192.168.8.38
+ DEBUG [cd941ff2] Command: if test ! -d /home/root/apps/myapp/releases/20170115214445; then echo "Directory does not exist '/home/root/apps/myapp/releases/20170115214445'" 1>&2; false; fi
+ DEBUG [cd941ff2] Finished in 0.007 seconds with exit status 0 (successful).
+  INFO [4c69abc0] Running /usr/local/rvm/bin/rvm default do bundle exec rake assets:precompile on 192.168.8.38
+ DEBUG [4c69abc0] Command: cd /home/root/apps/myapp/releases/20170115214445 && ( export RAILS_ENV="production" ; /usr/local/rvm/bin/rvm default do bundle exec rake assets:precompile )
+ DEBUG [4c69abc0] 	rake aborted!
+ DEBUG [4c69abc0] 	
+ DEBUG [4c69abc0] 	No Rakefile found (looking for: rakefile, Rakefile, rakefile.rb, Rakefile.rb)
+ DEBUG [4c69abc0] 	
+ DEBUG [4c69abc0] 	/usr/local/rvm/gems/ruby-2.2.5/gems/bundler-1.13.7/lib/bundler/cli/exec.rb:74:in `load'
+ DEBUG [4c69abc0] 	
+/usr/local/rvm/gems/ruby-2.2.5/gems/bundler-1.13.7/lib/bundler/cli/exec.rb:74:in `kernel_load'
+/usr/local/rvm/gems/ruby-2.2.5/gems/bundler-1.13.7/lib/bundler/cli/exec.rb:27:in `run'
+/usr/local/rvm/gems/ruby-2.2.5/gems/bundler-1.13.7/lib/bundler/cli.rb:332:in `exec'
+/usr/local/rvm/gems/ruby-2.2.5/gems/bundler-1.13.7/lib/bundler/vendor/thor/lib/thor/command.rb:27:in `run'
+/usr/local/rvm/gems/ruby-2.2.5/gems/bundler-1.13.7/lib/bundler/vendor/thor/lib/thor/invocation.rb:126:in `invoke_command'
+/usr/local/rvm/gems/ruby-2.2.5/gems/bundler-1.13.7/lib/bundler/vendor/thor/lib/thor.rb:359:in `dispatch'
+/usr/local/rvm/gems/ruby-2.2.5/gems/bundler-1.13.7/lib/bundler/cli.rb:20:in `dispatch'
+/usr/local/rvm/gems/ruby-2.2.5/gems/bundler-1.13.7/lib/bundler/vendor/thor/lib/thor/base.rb:440:in `start'
+/usr/local/rvm/gems/ruby-2.2.5/gems/bundler-1.13.7/lib/bundler/cli.rb:11:in `start'
+/usr/local/rvm/gems/ruby-2.2.5/gems/bundler-1.13.7/exe/bundle:34:in `block in <top (required)>'
+/usr/local/rvm/gems/ruby-2.2.5/gems/bundler-1.13.7/lib/bundler/friendly_errors.rb:100:in `with_friendly_errors'
+/usr/local/rvm/gems/ruby-2.2.5/gems/bundler-1.13.7/exe/bundle:26:in `<top (required)>'
+/usr/local/rvm/gems/ruby-2.2.5/bin/bundle:23:in `load'
+/usr/local/rvm/gems/ruby-2.2.5/bin/bundle:23:in `<main>'
+/usr/local/rvm/gems/ruby-2.2.5/bin/ruby_executable_hooks:15:in `eval'
+/usr/local/rvm/gems/ruby-2.2.5/bin/ruby_executable_hooks:15:in `<main>'
+(See full trace by running task with --trace)

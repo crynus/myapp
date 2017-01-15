@@ -3,7 +3,7 @@ server '192.168.8.38', port: 22, roles: [:web, :app, :db], primary: true
 
 set :repo_url,        'https://github.com/crynus/myapp.git'
 set :application,     'myapp'
-set :user,            'root'
+set :user,            'crynus'
 set :puma_threads,    [4, 16]
 set :puma_workers,    0
 
